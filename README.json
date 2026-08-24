@@ -1,7 +1,1111 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Koch v1.1",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 830731356,
+                "language": null,
+                "last_commit": "2024-09-17T13:55:36Z",
+                "owner": "jess-moss",
+                "repo": "koch-v1-1",
+                "stars": 725
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GitHub",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 830731356,
+                "language": null,
+                "last_commit": "2024-09-17T13:55:36Z",
+                "owner": "jess-moss",
+                "repo": "koch-v1-1",
+                "stars": 725
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GitHub",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 776211737,
+                "language": "Python",
+                "last_commit": "2024-09-21T17:21:21Z",
+                "owner": "AlexanderKoch-Koch",
+                "repo": "low_cost_robot",
+                "stars": 3408
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GitHub",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 776211737,
+                "language": "Python",
+                "last_commit": "2024-09-21T17:21:21Z",
+                "owner": "AlexanderKoch-Koch",
+                "repo": "low_cost_robot",
+                "stars": 3408
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GitHub",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 776211737,
+                "language": "Python",
+                "last_commit": "2024-09-21T17:21:21Z",
+                "owner": "AlexanderKoch-Koch",
+                "repo": "low_cost_robot",
+                "stars": 3408
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GitHub",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 34457604,
+                "language": null,
+                "last_commit": "2025-05-09T14:25:31Z",
+                "owner": "AngelLM",
+                "repo": "Thor",
+                "stars": 1570
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GitHub",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 53416685,
+                "language": "C",
+                "last_commit": "2021-07-27T20:07:41Z",
+                "owner": "AngelLM",
+                "repo": "grbl",
+                "stars": 22
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Arms"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Instructions",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 203379430,
+                "language": null,
+                "last_commit": "2022-09-06T15:20:50Z",
+                "owner": "open-dynamic-robot-initiative",
+                "repo": "open_robot_actuator_hardware",
+                "stars": 1457
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CocoNuts",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1134999394,
+                "language": "Python",
+                "last_commit": "2026-06-30T17:11:34Z",
+                "owner": "MarcDcls",
+                "repo": "coconuts",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GitHub",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1134999394,
+                "language": "Python",
+                "last_commit": "2026-06-30T17:11:34Z",
+                "owner": "MarcDcls",
+                "repo": "coconuts",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GitHub",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1134999394,
+                "language": "Python",
+                "last_commit": "2026-06-30T17:11:34Z",
+                "owner": "MarcDcls",
+                "repo": "coconuts",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Duke Humanoid",
+              "description": "Duke University Wiki MIT GitHub MIT",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 862162717,
+                "language": null,
+                "last_commit": "2025-06-22T01:39:33Z",
+                "owner": "generalroboticslab",
+                "repo": "DukeHumanoidv1",
+                "stars": 70
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GitHub",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 526741160,
+                "language": "Python",
+                "last_commit": "2024-06-08T13:08:41Z",
+                "owner": "assadollahi",
+                "repo": "kayra",
+                "stars": 59
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GitHub",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 526741160,
+                "language": "Python",
+                "last_commit": "2024-06-08T13:08:41Z",
+                "owner": "assadollahi",
+                "repo": "kayra",
+                "stars": 59
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GitHub",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 283586501,
+                "language": "C++",
+                "last_commit": "2020-08-18T20:59:50Z",
+                "owner": "raspibotics",
+                "repo": "MABEL",
+                "stars": 185
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GitHub",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 283586501,
+                "language": "C++",
+                "last_commit": "2020-08-18T20:59:50Z",
+                "owner": "raspibotics",
+                "repo": "MABEL",
+                "stars": 185
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MEVITA",
+              "description": "JSK Robotics Laboratory Google Drive MIT GitHub MIT",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1035841680,
+                "language": "Python",
+                "last_commit": "2025-08-27T00:35:48Z",
+                "owner": "haraduka",
+                "repo": "mevita",
+                "stars": 99
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Open Duck Mini",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 801580724,
+                "language": "Python",
+                "last_commit": "2026-01-31T10:28:29Z",
+                "owner": "apirrone",
+                "repo": "Open_Duck_Mini",
+                "stars": 3512
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GitHub",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 801580724,
+                "language": "Python",
+                "last_commit": "2026-01-31T10:28:29Z",
+                "owner": "apirrone",
+                "repo": "Open_Duck_Mini",
+                "stars": 3512
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GitHub",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 801580724,
+                "language": "Python",
+                "last_commit": "2026-01-31T10:28:29Z",
+                "owner": "apirrone",
+                "repo": "Open_Duck_Mini",
+                "stars": 3512
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RobotX",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 90650300,
+                "language": "C++",
+                "last_commit": "2018-06-16T19:41:18Z",
+                "owner": "XRobots",
+                "repo": "RobotX",
+                "stars": 131
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GitHub",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 90650300,
+                "language": "C++",
+                "last_commit": "2018-06-16T19:41:18Z",
+                "owner": "XRobots",
+                "repo": "RobotX",
+                "stars": 131
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GitHub",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 90650300,
+                "language": "C++",
+                "last_commit": "2018-06-16T19:41:18Z",
+                "owner": "XRobots",
+                "repo": "RobotX",
+                "stars": 131
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GitHub",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 223641279,
+                "language": "Python",
+                "last_commit": "2020-10-05T19:15:04Z",
+                "owner": "DarrenLevine",
+                "repo": "TipTap",
+                "stars": 65
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GitHub",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 223641279,
+                "language": "Python",
+                "last_commit": "2020-10-05T19:15:04Z",
+                "owner": "DarrenLevine",
+                "repo": "TipTap",
+                "stars": 65
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Wiki",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 493355698,
+                "language": "Python",
+                "last_commit": "2026-08-13T06:36:31Z",
+                "owner": "upkie",
+                "repo": "upkie",
+                "stars": 405
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GitHub",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 493355698,
+                "language": "Python",
+                "last_commit": "2026-08-13T06:36:31Z",
+                "owner": "upkie",
+                "repo": "upkie",
+                "stars": 405
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Bipeds"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Rotary Inverted Pendulum",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 799462853,
+                "language": "Python",
+                "last_commit": "2026-08-14T09:16:57Z",
+                "owner": "ferrolho",
+                "repo": "rotary-inverted-pendulum",
+                "stars": 88
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Instructions",
+              "description": ", Meshes",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 799462853,
+                "language": "Python",
+                "last_commit": "2026-08-14T09:16:57Z",
+                "owner": "ferrolho",
+                "repo": "rotary-inverted-pendulum",
+                "stars": 88
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Arduino",
+              "description": ", Julia, Python",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 799462853,
+                "language": "Python",
+                "last_commit": "2026-08-14T09:16:57Z",
+                "owner": "ferrolho",
+                "repo": "rotary-inverted-pendulum",
+                "stars": 88
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ROSMO",
+              "description": "Rosmo Build guide, Schematic CERN-OHL-S GitHub Apache-2.0",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 882228574,
+                "language": "C++",
+                "last_commit": "2025-09-22T14:00:50Z",
+                "owner": "rosmo-robot",
+                "repo": "rosmo-firmware",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Educational"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Assembly guide",
+              "description": ", CAD",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1008489187,
+                "language": "Python",
+                "last_commit": "2026-04-23T10:21:30Z",
+                "owner": "pollen-robotics",
+                "repo": "AmazingHand",
+                "stars": 2297
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GitHub",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1008489187,
+                "language": "Python",
+                "last_commit": "2026-04-23T10:21:30Z",
+                "owner": "pollen-robotics",
+                "repo": "AmazingHand",
+                "stars": 2297
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "End Effectors"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Asimov v1",
+              "description": "Menlo Research GitHub CERN-OHL-S-2.0 GitHub GPL-2.0",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1204739178,
+                "language": "Python",
+                "last_commit": "2026-08-21T05:56:19Z",
+                "owner": "menloresearch",
+                "repo": "asimov-1",
+                "stars": 1132
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NimbRo-OP2X",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 104756464,
+                "language": null,
+                "last_commit": "2018-09-26T11:23:30Z",
+                "owner": "NimbRo",
+                "repo": "nimbro-op2",
+                "stars": 61
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GitHub",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 104756464,
+                "language": null,
+                "last_commit": "2018-09-26T11:23:30Z",
+                "owner": "NimbRo",
+                "repo": "nimbro-op2",
+                "stars": 61
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Software",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 13270377,
+                "language": "C++",
+                "last_commit": "2013-11-07T12:57:27Z",
+                "owner": "NimbRo",
+                "repo": "nimbro-op-ros",
+                "stars": 44
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Poppy Ergo Jr",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 30644974,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-05-30T15:48:09Z",
+                "owner": "poppy-project",
+                "repo": "poppy-ergo-jr",
+                "stars": 227
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hardware",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 30644974,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-05-30T15:48:09Z",
+                "owner": "poppy-project",
+                "repo": "poppy-ergo-jr",
+                "stars": 227
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Software",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 30644974,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-05-30T15:48:09Z",
+                "owner": "poppy-project",
+                "repo": "poppy-ergo-jr",
+                "stars": 227
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hardware",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 29011745,
+                "language": "Jupyter Notebook",
+                "last_commit": "2021-12-06T18:19:35Z",
+                "owner": "poppy-project",
+                "repo": "poppy-humanoid",
+                "stars": 1047
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GitHub",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 29011745,
+                "language": "Jupyter Notebook",
+                "last_commit": "2021-12-06T18:19:35Z",
+                "owner": "poppy-project",
+                "repo": "poppy-humanoid",
+                "stars": 1047
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ToddlerBot",
+              "description": "Stanford University MakerWorld ❌ CC-BY-NC-SA-4.0 GitHub MIT",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 926431156,
+                "language": "Python",
+                "last_commit": "2026-07-31T07:04:15Z",
+                "owner": "hshi74",
+                "repo": "toddlerbot",
+                "stars": 742
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Microban",
+              "description": "Marc Duclusaud Github ❌ CC-BY-NC-SA-4.0 GitHub GPL-3.0",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1230832604,
+                "language": "Python",
+                "last_commit": "2026-07-21T00:16:10Z",
+                "owner": "Rhoban",
+                "repo": "microban",
+                "stars": 163
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Humanoids"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Acromonk",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 566754133,
+                "language": "Python",
+                "last_commit": "2023-08-25T04:31:53Z",
+                "owner": "dfki-ric-underactuated-lab",
+                "repo": "acromonk",
+                "stars": 55
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GitHub",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 566754133,
+                "language": "Python",
+                "last_commit": "2023-08-25T04:31:53Z",
+                "owner": "dfki-ric-underactuated-lab",
+                "repo": "acromonk",
+                "stars": 55
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GitHub",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 566754133,
+                "language": "Python",
+                "last_commit": "2023-08-25T04:31:53Z",
+                "owner": "dfki-ric-underactuated-lab",
+                "repo": "acromonk",
+                "stars": 55
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hardware",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 686005295,
+                "language": "Shell",
+                "last_commit": "2026-04-30T14:45:08Z",
+                "owner": "hidro-iri",
+                "repo": "Borinot",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GitHub",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 686005295,
+                "language": "Shell",
+                "last_commit": "2026-04-30T14:45:08Z",
+                "owner": "hidro-iri",
+                "repo": "Borinot",
+                "stars": 23
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Hybrid"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GitHub",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 950065302,
+                "language": "TypeScript",
+                "last_commit": "2025-07-14T09:49:10Z",
+                "owner": "timqian",
+                "repo": "bambot",
+                "stars": 969
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GitHub",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 950065302,
+                "language": "TypeScript",
+                "last_commit": "2025-07-14T09:49:10Z",
+                "owner": "timqian",
+                "repo": "bambot",
+                "stars": 969
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Mobile Manipulators"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Instructions",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 203379430,
+                "language": null,
+                "last_commit": "2022-09-06T15:20:50Z",
+                "owner": "open-dynamic-robot-initiative",
+                "repo": "open_robot_actuator_hardware",
+                "stars": 1457
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Parallel"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "DIY hobby servos quadruped",
+              "description": "Miguel Ayuso Parrilla Hackaday.io ❌ CC-BY-NC-SA-3.0 GitHub GPL-3.0",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 242267143,
+                "language": "C++",
+                "last_commit": "2021-12-15T19:08:43Z",
+                "owner": "miguelasd688",
+                "repo": "4-legged-robot-model",
+                "stars": 261
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MEVIUS",
+              "description": "JSK Robotics Laboratory Google Drive MIT GitHub MIT",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 856160684,
+                "language": "Python",
+                "last_commit": "2025-06-10T01:40:50Z",
+                "owner": "haraduka",
+                "repo": "mevius",
+                "stars": 253
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mjbots quad",
+              "description": "Josh Pieper Fusion 360 ❌ GitHub Apache-2.0",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 317703373,
+                "language": "C++",
+                "last_commit": "2026-06-17T18:23:42Z",
+                "owner": "mjbots",
+                "repo": "quad",
+                "stars": 104
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Instructions",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 203379430,
+                "language": null,
+                "last_commit": "2022-09-06T15:20:50Z",
+                "owner": "open-dynamic-robot-initiative",
+                "repo": "open_robot_actuator_hardware",
+                "stars": 1457
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Quadrupeds"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Sowbot",
+              "description": "Agroecology Lab Hardware CERN-OHL-S GitHub MIT",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1149586616,
+                "language": "Python",
+                "last_commit": "2026-08-24T08:37:48Z",
+                "owner": "Agroecology-Lab",
+                "repo": "feldfreund_devkit_ros",
+                "stars": 95
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Tracked"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GitHub",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 808187756,
+                "language": "C++",
+                "last_commit": "2025-05-07T21:06:31Z",
+                "owner": "mjbots",
+                "repo": "hoverbot",
+                "stars": 61
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GitHub",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 808187756,
+                "language": "C++",
+                "last_commit": "2025-05-07T21:06:31Z",
+                "owner": "mjbots",
+                "repo": "hoverbot",
+                "stars": 61
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GitHub",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 139205847,
+                "language": "Prolog",
+                "last_commit": "2026-08-13T01:02:20Z",
+                "owner": "nasa-jpl",
+                "repo": "open-source-rover",
+                "stars": 9601
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GitHub",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 139206609,
+                "language": "Python",
+                "last_commit": "2026-08-13T01:00:32Z",
+                "owner": "nasa-jpl",
+                "repo": "osr-rover-code",
+                "stars": 532
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Just1",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1060455278,
+                "language": "C++",
+                "last_commit": "2025-11-09T22:15:38Z",
+                "owner": "NRdrgz",
+                "repo": "Just1",
+                "stars": 74
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GitHub",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1060455278,
+                "language": "C++",
+                "last_commit": "2025-11-09T22:15:38Z",
+                "owner": "NRdrgz",
+                "repo": "Just1",
+                "stars": 74
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GitHub",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1060455278,
+                "language": "C++",
+                "last_commit": "2025-11-09T22:15:38Z",
+                "owner": "NRdrgz",
+                "repo": "Just1",
+                "stars": 74
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GitHub",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 477675491,
+                "language": "C++",
+                "last_commit": "2025-01-28T11:17:27Z",
+                "owner": "cbedio",
+                "repo": "OpenScout",
+                "stars": 85
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GitHub",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 477675491,
+                "language": "C++",
+                "last_commit": "2025-01-28T11:17:27Z",
+                "owner": "cbedio",
+                "repo": "OpenScout",
+                "stars": 85
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GitHub",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 499482971,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-03-04T16:15:25Z",
+                "owner": "AndReGeist",
+                "repo": "wheelbot",
+                "stars": 139
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GitHub",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 499482971,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-03-04T16:15:25Z",
+                "owner": "AndReGeist",
+                "repo": "wheelbot",
+                "stars": 139
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Wheeled"
+        }
+      ],
+      "title": "Robots"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-23T18:44:56.672Z",
+    "last_updated": "2026-08-24T14:28:16.137Z",
     "original_repository": "stephane-caron/awesome-open-source-robots",
     "original_repository_id": 485431774,
     "original_repository_sha": "e75ed566a5cf6f09bdecdc00c24c359b9cf46c2f",
