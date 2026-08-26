@@ -129,7 +129,7 @@
                 "last_commit": "2022-09-06T15:20:50Z",
                 "owner": "open-dynamic-robot-initiative",
                 "repo": "open_robot_actuator_hardware",
-                "stars": 1457
+                "stars": 1458
               }
             },
             {
@@ -279,7 +279,7 @@
                 "last_commit": "2026-01-31T10:28:29Z",
                 "owner": "apirrone",
                 "repo": "Open_Duck_Mini",
-                "stars": 3515
+                "stars": 3520
               }
             },
             {
@@ -294,7 +294,7 @@
                 "last_commit": "2026-01-31T10:28:29Z",
                 "owner": "apirrone",
                 "repo": "Open_Duck_Mini",
-                "stars": 3515
+                "stars": 3520
               }
             },
             {
@@ -309,7 +309,7 @@
                 "last_commit": "2026-01-31T10:28:29Z",
                 "owner": "apirrone",
                 "repo": "Open_Duck_Mini",
-                "stars": 3515
+                "stars": 3520
               }
             },
             {
@@ -503,7 +503,7 @@
                 "last_commit": "2026-04-23T10:21:30Z",
                 "owner": "pollen-robotics",
                 "repo": "AmazingHand",
-                "stars": 2299
+                "stars": 2300
               }
             },
             {
@@ -518,7 +518,7 @@
                 "last_commit": "2026-04-23T10:21:30Z",
                 "owner": "pollen-robotics",
                 "repo": "AmazingHand",
-                "stars": 2299
+                "stars": 2300
               }
             }
           ],
@@ -537,10 +537,10 @@
                 "archived": false,
                 "id": 1204739178,
                 "language": "Python",
-                "last_commit": "2026-08-21T05:56:19Z",
+                "last_commit": "2026-08-26T10:44:31Z",
                 "owner": "menloresearch",
                 "repo": "asimov-1",
-                "stars": 1136
+                "stars": 1139
               }
             },
             {
@@ -645,7 +645,7 @@
                 "last_commit": "2021-12-06T18:19:35Z",
                 "owner": "poppy-project",
                 "repo": "poppy-humanoid",
-                "stars": 1048
+                "stars": 1050
               }
             },
             {
@@ -660,7 +660,7 @@
                 "last_commit": "2021-12-06T18:19:35Z",
                 "owner": "poppy-project",
                 "repo": "poppy-humanoid",
-                "stars": 1048
+                "stars": 1050
               }
             },
             {
@@ -690,7 +690,7 @@
                 "last_commit": "2026-07-21T00:16:10Z",
                 "owner": "Rhoban",
                 "repo": "microban",
-                "stars": 170
+                "stars": 202
               }
             }
           ],
@@ -831,7 +831,7 @@
                 "last_commit": "2022-09-06T15:20:50Z",
                 "owner": "open-dynamic-robot-initiative",
                 "repo": "open_robot_actuator_hardware",
-                "stars": 1457
+                "stars": 1458
               }
             }
           ],
@@ -898,7 +898,7 @@
                 "last_commit": "2022-09-06T15:20:50Z",
                 "owner": "open-dynamic-robot-initiative",
                 "repo": "open_robot_actuator_hardware",
-                "stars": 1457
+                "stars": 1458
               }
             }
           ],
@@ -917,7 +917,7 @@
                 "archived": false,
                 "id": 1149586616,
                 "language": "Python",
-                "last_commit": "2026-08-24T08:37:48Z",
+                "last_commit": "2026-08-25T21:24:30Z",
                 "owner": "Agroecology-Lab",
                 "repo": "feldfreund_devkit_ros",
                 "stars": 96
@@ -972,7 +972,7 @@
                 "last_commit": "2026-08-13T01:02:20Z",
                 "owner": "nasa-jpl",
                 "repo": "open-source-rover",
-                "stars": 9607
+                "stars": 9610
               }
             },
             {
@@ -987,7 +987,7 @@
                 "last_commit": "2026-08-13T01:00:32Z",
                 "owner": "nasa-jpl",
                 "repo": "osr-rover-code",
-                "stars": 532
+                "stars": 533
               }
             },
             {
@@ -1105,7 +1105,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T18:53:47.617Z",
+    "last_updated": "2026-08-26T19:58:45.465Z",
     "original_repository": "stephane-caron/awesome-open-source-robots",
     "original_repository_id": 485431774,
     "original_repository_sha": "e75ed566a5cf6f09bdecdc00c24c359b9cf46c2f",
