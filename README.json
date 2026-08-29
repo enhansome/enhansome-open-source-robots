@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A version 1.1 of the Alexander Koch low cost robot arm with some small changes.",
+                "homepage": null,
                 "id": 830731356,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2024-09-17T13:55:36Z",
+                "open_issues": 10,
                 "owner": "jess-moss",
                 "repo": "koch-v1-1",
-                "stars": 727
+                "stars": 727,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
             },
@@ -28,12 +33,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A version 1.1 of the Alexander Koch low cost robot arm with some small changes.",
+                "homepage": null,
                 "id": 830731356,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2024-09-17T13:55:36Z",
+                "open_issues": 10,
                 "owner": "jess-moss",
                 "repo": "koch-v1-1",
-                "stars": 727
+                "stars": 727,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
             },
@@ -44,12 +54,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 776211737,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-09-21T17:21:21Z",
+                "open_issues": 24,
                 "owner": "AlexanderKoch-Koch",
                 "repo": "low_cost_robot",
-                "stars": 3409
+                "stars": 3409,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
             },
@@ -60,12 +75,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 776211737,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-09-21T17:21:21Z",
+                "open_issues": 24,
                 "owner": "AlexanderKoch-Koch",
                 "repo": "low_cost_robot",
-                "stars": 3409
+                "stars": 3409,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
             },
@@ -76,12 +96,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 776211737,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-09-21T17:21:21Z",
+                "open_issues": 24,
                 "owner": "AlexanderKoch-Koch",
                 "repo": "low_cost_robot",
-                "stars": 3409
+                "stars": 3409,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
             },
@@ -92,12 +117,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DIY 3D Printable Robotic Arm",
+                "homepage": "http://thor.angel-lm.com",
                 "id": 34457604,
                 "language": null,
+                "license": "CC-BY-SA-4.0",
                 "last_commit": "2025-05-09T14:25:31Z",
+                "open_issues": 5,
                 "owner": "AngelLM",
                 "repo": "Thor",
-                "stars": 1577
+                "stars": 1577,
+                "topics": [
+                  "3d-printed",
+                  "diy",
+                  "freecad",
+                  "maker",
+                  "opensource",
+                  "robot-arm",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
             },
@@ -108,12 +146,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An open source, embedded, high performance g-code-parser and CNC milling controller written in optimized C that will run on a straight Arduino",
+                "homepage": "https://github.com/grbl/grbl/wiki",
                 "id": 53416685,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2021-07-27T20:07:41Z",
+                "open_issues": 0,
                 "owner": "AngelLM",
                 "repo": "grbl",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
             }
@@ -131,12 +174,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://open-dynamic-robot-initiative.github.io",
                 "id": 203379430,
                 "language": null,
+                "license": "BSD-3-Clause",
                 "last_commit": "2022-09-06T15:20:50Z",
+                "open_issues": 4,
                 "owner": "open-dynamic-robot-initiative",
                 "repo": "open_robot_actuator_hardware",
-                "stars": 1460
+                "stars": 1460,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
             },
@@ -147,12 +195,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The CocoNuts project is an open-source humanoid robotics research platform. Its primary design philosophy is the minimization of leg inertia by concentrating mass near the root of the limbs, utilizing a combination of timing belts and parallel linkage mechanisms.",
+                "homepage": null,
                 "id": 1134999394,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-30T17:11:34Z",
+                "open_issues": 0,
                 "owner": "MarcDcls",
                 "repo": "coconuts",
-                "stars": 23
+                "stars": 23,
+                "topics": [
+                  "humanoid-robot",
+                  "mechanical-design",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
             },
@@ -163,12 +220,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The CocoNuts project is an open-source humanoid robotics research platform. Its primary design philosophy is the minimization of leg inertia by concentrating mass near the root of the limbs, utilizing a combination of timing belts and parallel linkage mechanisms.",
+                "homepage": null,
                 "id": 1134999394,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-30T17:11:34Z",
+                "open_issues": 0,
                 "owner": "MarcDcls",
                 "repo": "coconuts",
-                "stars": 23
+                "stars": 23,
+                "topics": [
+                  "humanoid-robot",
+                  "mechanical-design",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
             },
@@ -179,12 +245,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The CocoNuts project is an open-source humanoid robotics research platform. Its primary design philosophy is the minimization of leg inertia by concentrating mass near the root of the limbs, utilizing a combination of timing belts and parallel linkage mechanisms.",
+                "homepage": null,
                 "id": 1134999394,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-30T17:11:34Z",
+                "open_issues": 0,
                 "owner": "MarcDcls",
                 "repo": "coconuts",
-                "stars": 23
+                "stars": 23,
+                "topics": [
+                  "humanoid-robot",
+                  "mechanical-design",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
             },
@@ -195,12 +270,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RL simulation and hardware control for Duke Humanoid V1",
+                "homepage": null,
                 "id": 862162717,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2025-06-22T01:39:33Z",
+                "open_issues": 0,
                 "owner": "generalroboticslab",
                 "repo": "DukeHumanoidv1",
-                "stars": 71
+                "stars": 71,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
             },
@@ -211,12 +291,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "an easy to modify, 3d printable open source humanoid robot evolved by the community",
+                "homepage": null,
                 "id": 526741160,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2024-06-08T13:08:41Z",
+                "open_issues": 0,
                 "owner": "assadollahi",
                 "repo": "kayra",
-                "stars": 59
+                "stars": 59,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
             },
@@ -227,12 +312,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "an easy to modify, 3d printable open source humanoid robot evolved by the community",
+                "homepage": null,
                 "id": 526741160,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2024-06-08T13:08:41Z",
+                "open_issues": 0,
                 "owner": "assadollahi",
                 "repo": "kayra",
-                "stars": 59
+                "stars": 59,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
             },
@@ -243,12 +333,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MABEL is a feature-packed, open-source, legged balancing robot based off of the Boston Dynamics Handle robot.",
+                "homepage": "https://raspibotics.github.io/MABEL/",
                 "id": 283586501,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2020-08-18T20:59:50Z",
+                "open_issues": 0,
                 "owner": "raspibotics",
                 "repo": "MABEL",
-                "stars": 185
+                "stars": 185,
+                "topics": [
+                  "arduino",
+                  "balancing-robots",
+                  "boston-dynamics",
+                  "mabel",
+                  "raspberry-pi",
+                  "raspberry-pi-robot",
+                  "raspibotics",
+                  "robot",
+                  "robotics",
+                  "self-balancing-robot"
+                ]
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
             },
@@ -259,12 +365,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MABEL is a feature-packed, open-source, legged balancing robot based off of the Boston Dynamics Handle robot.",
+                "homepage": "https://raspibotics.github.io/MABEL/",
                 "id": 283586501,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2020-08-18T20:59:50Z",
+                "open_issues": 0,
                 "owner": "raspibotics",
                 "repo": "MABEL",
-                "stars": 185
+                "stars": 185,
+                "topics": [
+                  "arduino",
+                  "balancing-robots",
+                  "boston-dynamics",
+                  "mabel",
+                  "raspberry-pi",
+                  "raspberry-pi-robot",
+                  "raspibotics",
+                  "robot",
+                  "robotics",
+                  "self-balancing-robot"
+                ]
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
             },
@@ -275,12 +397,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "      MEVITA: Open-Source Bipedal Robot Assembled from E-Commerce Components via Sheet Metal Welding",
+                "homepage": null,
                 "id": 1035841680,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-08-27T00:35:48Z",
+                "open_issues": 0,
                 "owner": "haraduka",
                 "repo": "mevita",
-                "stars": 101
+                "stars": 101,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
             },
@@ -291,12 +418,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Making a mini version of the BDX droid. https://discord.gg/UtJZsgfQGe",
+                "homepage": null,
                 "id": 801580724,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-01-31T10:28:29Z",
+                "open_issues": 24,
                 "owner": "apirrone",
                 "repo": "Open_Duck_Mini",
-                "stars": 3580
+                "stars": 3586,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
             },
@@ -307,12 +439,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Making a mini version of the BDX droid. https://discord.gg/UtJZsgfQGe",
+                "homepage": null,
                 "id": 801580724,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-01-31T10:28:29Z",
+                "open_issues": 24,
                 "owner": "apirrone",
                 "repo": "Open_Duck_Mini",
-                "stars": 3580
+                "stars": 3586,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
             },
@@ -323,12 +460,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Making a mini version of the BDX droid. https://discord.gg/UtJZsgfQGe",
+                "homepage": null,
                 "id": 801580724,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-01-31T10:28:29Z",
+                "open_issues": 24,
                 "owner": "apirrone",
                 "repo": "Open_Duck_Mini",
-                "stars": 3580
+                "stars": 3586,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
             },
@@ -339,12 +481,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "All the things for RobotX",
+                "homepage": null,
                 "id": 90650300,
                 "language": "C++",
+                "license": "LGPL-3.0",
                 "last_commit": "2018-06-16T19:41:18Z",
+                "open_issues": 2,
                 "owner": "XRobots",
                 "repo": "RobotX",
-                "stars": 131
+                "stars": 131,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
             },
@@ -355,12 +502,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "All the things for RobotX",
+                "homepage": null,
                 "id": 90650300,
                 "language": "C++",
+                "license": "LGPL-3.0",
                 "last_commit": "2018-06-16T19:41:18Z",
+                "open_issues": 2,
                 "owner": "XRobots",
                 "repo": "RobotX",
-                "stars": 131
+                "stars": 131,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
             },
@@ -371,12 +523,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "All the things for RobotX",
+                "homepage": null,
                 "id": 90650300,
                 "language": "C++",
+                "license": "LGPL-3.0",
                 "last_commit": "2018-06-16T19:41:18Z",
+                "open_issues": 2,
                 "owner": "XRobots",
                 "repo": "RobotX",
-                "stars": 131
+                "stars": 131,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
             },
@@ -387,12 +544,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A 3d-printed bipedal robot. A low-cost desktop option for semi-direct drive walking research.",
+                "homepage": "https://hackaday.io/project/163093-tiptap",
                 "id": 223641279,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-10-05T19:15:04Z",
+                "open_issues": 0,
                 "owner": "DarrenLevine",
                 "repo": "TipTap",
-                "stars": 65
+                "stars": 65,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
             },
@@ -403,12 +565,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A 3d-printed bipedal robot. A low-cost desktop option for semi-direct drive walking research.",
+                "homepage": "https://hackaday.io/project/163093-tiptap",
                 "id": 223641279,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-10-05T19:15:04Z",
+                "open_issues": 0,
                 "owner": "DarrenLevine",
                 "repo": "TipTap",
-                "stars": 65
+                "stars": 65,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
             },
@@ -419,12 +586,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-source wheeled biped robots",
+                "homepage": null,
                 "id": 493355698,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-13T06:36:31Z",
+                "open_issues": 5,
                 "owner": "upkie",
                 "repo": "upkie",
-                "stars": 411
+                "stars": 411,
+                "topics": [
+                  "legged-robots",
+                  "locomotion",
+                  "model-predictive-control",
+                  "python",
+                  "reinforcement-learning",
+                  "robotics",
+                  "simulation",
+                  "wheeled-biped"
+                ]
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
             },
@@ -435,12 +616,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-source wheeled biped robots",
+                "homepage": null,
                 "id": 493355698,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-13T06:36:31Z",
+                "open_issues": 5,
                 "owner": "upkie",
                 "repo": "upkie",
-                "stars": 411
+                "stars": 411,
+                "topics": [
+                  "legged-robots",
+                  "locomotion",
+                  "model-predictive-control",
+                  "python",
+                  "reinforcement-learning",
+                  "robotics",
+                  "simulation",
+                  "wheeled-biped"
+                ]
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
             }
@@ -458,12 +653,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A £20 open-source rotary inverted pendulum that balances itself with a 689-parameter neural network running standalone on an Arduino Nano.",
+                "homepage": "https://ferrolho.github.io/rotary-inverted-pendulum/",
                 "id": 799462853,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-14T09:16:57Z",
+                "open_issues": 2,
                 "owner": "ferrolho",
                 "repo": "rotary-inverted-pendulum",
-                "stars": 89
+                "stars": 89,
+                "topics": [
+                  "control-theory",
+                  "furuta-pendulum",
+                  "inverted-pendulum",
+                  "mujoco",
+                  "reinforcement-learning",
+                  "robotics",
+                  "sim-to-real",
+                  "tinyml"
+                ]
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
             },
@@ -474,12 +683,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A £20 open-source rotary inverted pendulum that balances itself with a 689-parameter neural network running standalone on an Arduino Nano.",
+                "homepage": "https://ferrolho.github.io/rotary-inverted-pendulum/",
                 "id": 799462853,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-14T09:16:57Z",
+                "open_issues": 2,
                 "owner": "ferrolho",
                 "repo": "rotary-inverted-pendulum",
-                "stars": 89
+                "stars": 89,
+                "topics": [
+                  "control-theory",
+                  "furuta-pendulum",
+                  "inverted-pendulum",
+                  "mujoco",
+                  "reinforcement-learning",
+                  "robotics",
+                  "sim-to-real",
+                  "tinyml"
+                ]
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
             },
@@ -490,12 +713,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A £20 open-source rotary inverted pendulum that balances itself with a 689-parameter neural network running standalone on an Arduino Nano.",
+                "homepage": "https://ferrolho.github.io/rotary-inverted-pendulum/",
                 "id": 799462853,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-14T09:16:57Z",
+                "open_issues": 2,
                 "owner": "ferrolho",
                 "repo": "rotary-inverted-pendulum",
-                "stars": 89
+                "stars": 89,
+                "topics": [
+                  "control-theory",
+                  "furuta-pendulum",
+                  "inverted-pendulum",
+                  "mujoco",
+                  "reinforcement-learning",
+                  "robotics",
+                  "sim-to-real",
+                  "tinyml"
+                ]
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
             },
@@ -506,12 +743,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 882228574,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2025-09-22T14:00:50Z",
+                "open_issues": 0,
                 "owner": "rosmo-robot",
                 "repo": "rosmo-firmware",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
             }
@@ -529,12 +771,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code and model to control the AH!",
+                "homepage": null,
                 "id": 1008489187,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-23T10:21:30Z",
+                "open_issues": 21,
                 "owner": "pollen-robotics",
                 "repo": "AmazingHand",
-                "stars": 2316
+                "stars": 2318,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
             },
@@ -545,12 +792,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code and model to control the AH!",
+                "homepage": null,
                 "id": 1008489187,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-23T10:21:30Z",
+                "open_issues": 21,
                 "owner": "pollen-robotics",
                 "repo": "AmazingHand",
-                "stars": 2316
+                "stars": 2318,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
             }
@@ -568,12 +820,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "v1 of Asimov, an open-source humanoid robot ",
+                "homepage": "https://docs.menlo.ai/asimov/1",
                 "id": 1204739178,
                 "language": "Python",
+                "license": "CERN-OHL-S-2.0",
                 "last_commit": "2026-08-26T10:44:31Z",
+                "open_issues": 1,
                 "owner": "menloresearch",
                 "repo": "asimov-1",
-                "stars": 1149
+                "stars": 1149,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
             },
@@ -584,12 +841,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "2017 NimbRo-OP2 hardware release",
+                "homepage": null,
                 "id": 104756464,
                 "language": null,
+                "license": null,
                 "last_commit": "2018-09-26T11:23:30Z",
+                "open_issues": 0,
                 "owner": "NimbRo",
                 "repo": "nimbro-op2",
-                "stars": 61
+                "stars": 61,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
             },
@@ -600,12 +862,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "2017 NimbRo-OP2 hardware release",
+                "homepage": null,
                 "id": 104756464,
                 "language": null,
+                "license": null,
                 "last_commit": "2018-09-26T11:23:30Z",
+                "open_issues": 0,
                 "owner": "NimbRo",
                 "repo": "nimbro-op2",
-                "stars": 61
+                "stars": 61,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
             },
@@ -616,12 +883,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NimbRo-OP ROS software release",
+                "homepage": null,
                 "id": 13270377,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2013-11-07T12:57:27Z",
+                "open_issues": 1,
                 "owner": "NimbRo",
                 "repo": "nimbro-op-ros",
-                "stars": 44
+                "stars": 44,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
             },
@@ -632,12 +904,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🤖  Poppy Ergo Jr is an open-source robotic arm based on modular 3D printed conception and  low-cost XL-320 motors.",
+                "homepage": null,
                 "id": 30644974,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2022-05-30T15:48:09Z",
+                "open_issues": 15,
                 "owner": "poppy-project",
                 "repo": "poppy-ergo-jr",
-                "stars": 227
+                "stars": 227,
+                "topics": [
+                  "dynamixel",
+                  "raspberry-pi",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
             },
@@ -648,12 +929,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🤖  Poppy Ergo Jr is an open-source robotic arm based on modular 3D printed conception and  low-cost XL-320 motors.",
+                "homepage": null,
                 "id": 30644974,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2022-05-30T15:48:09Z",
+                "open_issues": 15,
                 "owner": "poppy-project",
                 "repo": "poppy-ergo-jr",
-                "stars": 227
+                "stars": 227,
+                "topics": [
+                  "dynamixel",
+                  "raspberry-pi",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
             },
@@ -664,12 +954,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🤖  Poppy Ergo Jr is an open-source robotic arm based on modular 3D printed conception and  low-cost XL-320 motors.",
+                "homepage": null,
                 "id": 30644974,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2022-05-30T15:48:09Z",
+                "open_issues": 15,
                 "owner": "poppy-project",
                 "repo": "poppy-ergo-jr",
-                "stars": 227
+                "stars": 227,
+                "topics": [
+                  "dynamixel",
+                  "raspberry-pi",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
             },
@@ -680,12 +979,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Poppy Humanoid is an open-source and 3D printed humanoid robot. Optimized for research and education purposes, its modularity allows for a wide range of applications and experimentations. ",
+                "homepage": null,
                 "id": 29011745,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2021-12-06T18:19:35Z",
+                "open_issues": 4,
                 "owner": "poppy-project",
                 "repo": "poppy-humanoid",
-                "stars": 1052
+                "stars": 1052,
+                "topics": [
+                  "poppy",
+                  "robot",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
             },
@@ -696,12 +1004,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Poppy Humanoid is an open-source and 3D printed humanoid robot. Optimized for research and education purposes, its modularity allows for a wide range of applications and experimentations. ",
+                "homepage": null,
                 "id": 29011745,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2021-12-06T18:19:35Z",
+                "open_issues": 4,
                 "owner": "poppy-project",
                 "repo": "poppy-humanoid",
-                "stars": 1052
+                "stars": 1052,
+                "topics": [
+                  "poppy",
+                  "robot",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
             },
@@ -712,12 +1029,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 926431156,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-31T07:04:15Z",
+                "open_issues": 3,
                 "owner": "hshi74",
                 "repo": "toddlerbot",
-                "stars": 751
+                "stars": 751,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
             },
@@ -728,12 +1050,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Microban is an affordable, fully 3D-printable, and 100% open-source humanoid robot. Powered by a Raspberry Pi Zero 2W and 19 Dynamixel servomotors, it serves as an accessible DIY platform for learning, experimentation, and research in robotics.",
+                "homepage": null,
                 "id": 1230832604,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-21T00:16:10Z",
+                "open_issues": 0,
                 "owner": "Rhoban",
                 "repo": "microban",
-                "stars": 222
+                "stars": 226,
+                "topics": [
+                  "diy",
+                  "electronics",
+                  "engineering",
+                  "humanoid-robot",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
             }
@@ -751,12 +1084,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AcroMonk: A Minimalist Underactuated Brachiating Robot",
+                "homepage": null,
                 "id": 566754133,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2023-08-25T04:31:53Z",
+                "open_issues": 1,
                 "owner": "dfki-ric-underactuated-lab",
                 "repo": "acromonk",
-                "stars": 55
+                "stars": 55,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
             },
@@ -767,12 +1105,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AcroMonk: A Minimalist Underactuated Brachiating Robot",
+                "homepage": null,
                 "id": 566754133,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2023-08-25T04:31:53Z",
+                "open_issues": 1,
                 "owner": "dfki-ric-underactuated-lab",
                 "repo": "acromonk",
-                "stars": 55
+                "stars": 55,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
             },
@@ -783,12 +1126,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AcroMonk: A Minimalist Underactuated Brachiating Robot",
+                "homepage": null,
                 "id": 566754133,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2023-08-25T04:31:53Z",
+                "open_issues": 1,
                 "owner": "dfki-ric-underactuated-lab",
                 "repo": "acromonk",
-                "stars": 55
+                "stars": 55,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
             },
@@ -799,12 +1147,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🐝 Borinot: Open-Source Aerial Robot for Hybrid Locomotion & Manipulation Research. Dive into the fusion of flight and contact dynamics!",
+                "homepage": null,
                 "id": 686005295,
                 "language": "Shell",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-04-30T14:45:08Z",
+                "open_issues": 0,
                 "owner": "hidro-iri",
                 "repo": "Borinot",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
             },
@@ -815,12 +1168,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🐝 Borinot: Open-Source Aerial Robot for Hybrid Locomotion & Manipulation Research. Dive into the fusion of flight and contact dynamics!",
+                "homepage": null,
                 "id": 686005295,
                 "language": "Shell",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-04-30T14:45:08Z",
+                "open_issues": 0,
                 "owner": "hidro-iri",
                 "repo": "Borinot",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
             }
@@ -838,12 +1196,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Play with open source, low-cost AI robots with ease 🤖",
+                "homepage": "https://bambot.org",
                 "id": 950065302,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2025-07-14T09:49:10Z",
+                "open_issues": 30,
                 "owner": "timqian",
                 "repo": "bambot",
-                "stars": 971
+                "stars": 971,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
             },
@@ -854,12 +1217,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Play with open source, low-cost AI robots with ease 🤖",
+                "homepage": "https://bambot.org",
                 "id": 950065302,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2025-07-14T09:49:10Z",
+                "open_issues": 30,
                 "owner": "timqian",
                 "repo": "bambot",
-                "stars": 971
+                "stars": 971,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
             }
@@ -877,12 +1245,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://open-dynamic-robot-initiative.github.io",
                 "id": 203379430,
                 "language": null,
+                "license": "BSD-3-Clause",
                 "last_commit": "2022-09-06T15:20:50Z",
+                "open_issues": 4,
                 "owner": "open-dynamic-robot-initiative",
                 "repo": "open_robot_actuator_hardware",
-                "stars": 1460
+                "stars": 1460,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
             }
@@ -900,12 +1273,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 242267143,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2021-12-15T19:08:43Z",
+                "open_issues": 4,
                 "owner": "miguelasd688",
                 "repo": "4-legged-robot-model",
-                "stars": 261
+                "stars": 261,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
             },
@@ -916,12 +1294,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Quadruped Robot Easily Constructed through E-Commerce with Sheet Metal Welding and Machining",
+                "homepage": null,
                 "id": 856160684,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-06-10T01:40:50Z",
+                "open_issues": 2,
                 "owner": "haraduka",
                 "repo": "mevius",
-                "stars": 253
+                "stars": 253,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
             },
@@ -932,12 +1315,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "quad A1 robot software and hardware",
+                "homepage": null,
                 "id": 317703373,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-17T18:23:42Z",
+                "open_issues": 1,
                 "owner": "mjbots",
                 "repo": "quad",
-                "stars": 104
+                "stars": 104,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
             },
@@ -948,12 +1336,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://open-dynamic-robot-initiative.github.io",
                 "id": 203379430,
                 "language": null,
+                "license": "BSD-3-Clause",
                 "last_commit": "2022-09-06T15:20:50Z",
+                "open_issues": 4,
                 "owner": "open-dynamic-robot-initiative",
                 "repo": "open_robot_actuator_hardware",
-                "stars": 1460
+                "stars": 1460,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
             }
@@ -971,12 +1364,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ROS2 stack for the Sowbot open hardware reference platforms. We're working towards  a precision-guided seeding/weeding robot. ",
+                "homepage": "https://sowbot.co.uk/",
                 "id": 1149586616,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-25T21:24:30Z",
+                "open_issues": 37,
                 "owner": "Agroecology-Lab",
                 "repo": "feldfreund_devkit_ros",
-                "stars": 96
+                "stars": 96,
+                "topics": [
+                  "agriculture",
+                  "agtech",
+                  "robot",
+                  "robotics",
+                  "ros2"
+                ]
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
             }
@@ -994,12 +1398,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple balancing hoverboard robot",
+                "homepage": null,
                 "id": 808187756,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2025-05-07T21:06:31Z",
+                "open_issues": 0,
                 "owner": "mjbots",
                 "repo": "hoverbot",
-                "stars": 61
+                "stars": 61,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
             },
@@ -1010,12 +1419,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple balancing hoverboard robot",
+                "homepage": null,
                 "id": 808187756,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2025-05-07T21:06:31Z",
+                "open_issues": 0,
                 "owner": "mjbots",
                 "repo": "hoverbot",
-                "stars": 61
+                "stars": 61,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
             },
@@ -1026,12 +1440,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A build-it-yourself, 6-wheel rover based on the rovers on Mars!",
+                "homepage": "https://open-source-rover.readthedocs.io",
                 "id": 139205847,
                 "language": "Prolog",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-13T01:02:20Z",
+                "open_issues": 17,
                 "owner": "nasa-jpl",
                 "repo": "open-source-rover",
-                "stars": 9613
+                "stars": 9613,
+                "topics": [
+                  "diy",
+                  "hardware",
+                  "mars",
+                  "mars-rover",
+                  "open-source",
+                  "robot",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
             },
@@ -1042,12 +1469,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code that runs on the Open Source Rover",
+                "homepage": null,
                 "id": 139206609,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-13T01:00:32Z",
+                "open_issues": 17,
                 "owner": "nasa-jpl",
                 "repo": "osr-rover-code",
-                "stars": 534
+                "stars": 534,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
             },
@@ -1058,12 +1490,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Just1 - An Open-Source Autonomous Mecanum Wheel Robot ",
+                "homepage": null,
                 "id": 1060455278,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2025-11-09T22:15:38Z",
+                "open_issues": 0,
                 "owner": "NRdrgz",
                 "repo": "Just1",
-                "stars": 74
+                "stars": 74,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
             },
@@ -1074,12 +1511,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Just1 - An Open-Source Autonomous Mecanum Wheel Robot ",
+                "homepage": null,
                 "id": 1060455278,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2025-11-09T22:15:38Z",
+                "open_issues": 0,
                 "owner": "NRdrgz",
                 "repo": "Just1",
-                "stars": 74
+                "stars": 74,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
             },
@@ -1090,12 +1532,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Just1 - An Open-Source Autonomous Mecanum Wheel Robot ",
+                "homepage": null,
                 "id": 1060455278,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2025-11-09T22:15:38Z",
+                "open_issues": 0,
                 "owner": "NRdrgz",
                 "repo": "Just1",
-                "stars": 74
+                "stars": 74,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
             },
@@ -1106,12 +1553,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 477675491,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2025-01-28T11:17:27Z",
+                "open_issues": 1,
                 "owner": "cbedio",
                 "repo": "OpenScout",
-                "stars": 85
+                "stars": 85,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
             },
@@ -1122,12 +1574,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 477675491,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2025-01-28T11:17:27Z",
+                "open_issues": 1,
                 "owner": "cbedio",
                 "repo": "OpenScout",
-                "stars": 85
+                "stars": 85,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
             },
@@ -1138,12 +1595,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Wheelbot: A Jumping Reaction Wheel Unicycle - ICRA 2022",
+                "homepage": "https://sites.google.com/view/wheelbot/start",
                 "id": 499482971,
                 "language": "Jupyter Notebook",
+                "license": "GPL-3.0",
                 "last_commit": "2025-03-04T16:15:25Z",
+                "open_issues": 4,
                 "owner": "AndReGeist",
                 "repo": "wheelbot",
-                "stars": 139
+                "stars": 139,
+                "topics": [
+                  "hardware-designs",
+                  "robotics",
+                  "unicycle"
+                ]
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
             },
@@ -1154,12 +1620,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Wheelbot: A Jumping Reaction Wheel Unicycle - ICRA 2022",
+                "homepage": "https://sites.google.com/view/wheelbot/start",
                 "id": 499482971,
                 "language": "Jupyter Notebook",
+                "license": "GPL-3.0",
                 "last_commit": "2025-03-04T16:15:25Z",
+                "open_issues": 4,
                 "owner": "AndReGeist",
                 "repo": "wheelbot",
-                "stars": 139
+                "stars": 139,
+                "topics": [
+                  "hardware-designs",
+                  "robotics",
+                  "unicycle"
+                ]
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
             }
@@ -1173,15 +1648,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:43:53.826Z",
+    "last_updated": "2026-08-29T04:47:10.476Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome robots that are open source",
+      "homepage": null,
       "id": 485431774,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-08-03T07:58:45Z",
+      "open_issues": 0,
       "owner": "stephane-caron",
       "repo": "awesome-open-source-robots",
-      "stars": 286
+      "stars": 286,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "open-source",
+        "open-source-robots",
+        "robotics",
+        "robots"
+      ]
     },
     "original_repository_sha": "e75ed566a5cf6f09bdecdc00c24c359b9cf46c2f",
     "enhanced_repository": "enhansome/enhansome-open-source-robots",
