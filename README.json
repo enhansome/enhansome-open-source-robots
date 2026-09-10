@@ -126,7 +126,7 @@
                 "open_issues": 5,
                 "owner": "AngelLM",
                 "repo": "Thor",
-                "stars": 1588,
+                "stars": 1589,
                 "topics": [
                   "3d-printed",
                   "diy",
@@ -424,10 +424,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-01-31T10:28:29Z",
-                "open_issues": 28,
+                "open_issues": 29,
                 "owner": "apirrone",
                 "repo": "Open_Duck_Mini",
-                "stars": 4021,
+                "stars": 4031,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -445,10 +445,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-01-31T10:28:29Z",
-                "open_issues": 28,
+                "open_issues": 29,
                 "owner": "apirrone",
                 "repo": "Open_Duck_Mini",
-                "stars": 4021,
+                "stars": 4031,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -466,10 +466,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-01-31T10:28:29Z",
-                "open_issues": 28,
+                "open_issues": 29,
                 "owner": "apirrone",
                 "repo": "Open_Duck_Mini",
-                "stars": 4021,
+                "stars": 4031,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -595,7 +595,7 @@
                 "open_issues": 5,
                 "owner": "upkie",
                 "repo": "upkie",
-                "stars": 425,
+                "stars": 427,
                 "topics": [
                   "legged-robots",
                   "locomotion",
@@ -625,7 +625,7 @@
                 "open_issues": 5,
                 "owner": "upkie",
                 "repo": "upkie",
-                "stars": 425,
+                "stars": 427,
                 "topics": [
                   "legged-robots",
                   "locomotion",
@@ -829,7 +829,7 @@
                 "open_issues": 2,
                 "owner": "menloresearch",
                 "repo": "asimov-1",
-                "stars": 1184,
+                "stars": 1186,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -988,7 +988,7 @@
                 "open_issues": 4,
                 "owner": "poppy-project",
                 "repo": "poppy-humanoid",
-                "stars": 1059,
+                "stars": 1061,
                 "topics": [
                   "poppy",
                   "robot",
@@ -1013,7 +1013,7 @@
                 "open_issues": 4,
                 "owner": "poppy-project",
                 "repo": "poppy-humanoid",
-                "stars": 1059,
+                "stars": 1061,
                 "topics": [
                   "poppy",
                   "robot",
@@ -1055,11 +1055,11 @@
                 "id": 1230832604,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-07T01:09:53Z",
+                "last_commit": "2026-09-10T00:04:15Z",
                 "open_issues": 0,
                 "owner": "Rhoban",
                 "repo": "microban",
-                "stars": 323,
+                "stars": 329,
                 "topics": [
                   "diy",
                   "electronics",
@@ -1369,7 +1369,7 @@
                 "id": 1149586616,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-07T22:11:52Z",
+                "last_commit": "2026-09-10T11:35:45Z",
                 "open_issues": 37,
                 "owner": "Agroecology-Lab",
                 "repo": "feldfreund_devkit_ros",
@@ -1449,7 +1449,7 @@
                 "open_issues": 14,
                 "owner": "nasa-jpl",
                 "repo": "open-source-rover",
-                "stars": 9633,
+                "stars": 9635,
                 "topics": [
                   "diy",
                   "hardware",
@@ -1648,7 +1648,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T20:53:13.264Z",
+    "last_updated": "2026-09-10T20:48:05.688Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome robots that are open source",
@@ -1660,7 +1660,7 @@
       "open_issues": 0,
       "owner": "stephane-caron",
       "repo": "awesome-open-source-robots",
-      "stars": 294,
+      "stars": 295,
       "topics": [
         "awesome",
         "awesome-list",
