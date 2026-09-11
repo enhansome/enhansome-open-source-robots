@@ -126,7 +126,7 @@
                 "open_issues": 5,
                 "owner": "AngelLM",
                 "repo": "Thor",
-                "stars": 1589,
+                "stars": 1591,
                 "topics": [
                   "3d-printed",
                   "diy",
@@ -183,7 +183,7 @@
                 "open_issues": 4,
                 "owner": "open-dynamic-robot-initiative",
                 "repo": "open_robot_actuator_hardware",
-                "stars": 1466,
+                "stars": 1468,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -406,7 +406,7 @@
                 "open_issues": 0,
                 "owner": "haraduka",
                 "repo": "mevita",
-                "stars": 103,
+                "stars": 104,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -427,7 +427,7 @@
                 "open_issues": 29,
                 "owner": "apirrone",
                 "repo": "Open_Duck_Mini",
-                "stars": 4031,
+                "stars": 4043,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -448,7 +448,7 @@
                 "open_issues": 29,
                 "owner": "apirrone",
                 "repo": "Open_Duck_Mini",
-                "stars": 4031,
+                "stars": 4043,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -469,7 +469,7 @@
                 "open_issues": 29,
                 "owner": "apirrone",
                 "repo": "Open_Duck_Mini",
-                "stars": 4031,
+                "stars": 4043,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -780,7 +780,7 @@
                 "open_issues": 21,
                 "owner": "pollen-robotics",
                 "repo": "AmazingHand",
-                "stars": 2365,
+                "stars": 2366,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -801,7 +801,7 @@
                 "open_issues": 21,
                 "owner": "pollen-robotics",
                 "repo": "AmazingHand",
-                "stars": 2365,
+                "stars": 2366,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -829,7 +829,7 @@
                 "open_issues": 2,
                 "owner": "menloresearch",
                 "repo": "asimov-1",
-                "stars": 1186,
+                "stars": 1189,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -1059,7 +1059,7 @@
                 "open_issues": 0,
                 "owner": "Rhoban",
                 "repo": "microban",
-                "stars": 329,
+                "stars": 338,
                 "topics": [
                   "diy",
                   "electronics",
@@ -1254,7 +1254,7 @@
                 "open_issues": 4,
                 "owner": "open-dynamic-robot-initiative",
                 "repo": "open_robot_actuator_hardware",
-                "stars": 1466,
+                "stars": 1468,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -1345,7 +1345,7 @@
                 "open_issues": 4,
                 "owner": "open-dynamic-robot-initiative",
                 "repo": "open_robot_actuator_hardware",
-                "stars": 1466,
+                "stars": 1468,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -1369,7 +1369,7 @@
                 "id": 1149586616,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-10T11:35:45Z",
+                "last_commit": "2026-09-11T09:26:55Z",
                 "open_issues": 37,
                 "owner": "Agroecology-Lab",
                 "repo": "feldfreund_devkit_ros",
@@ -1648,7 +1648,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T20:48:05.688Z",
+    "last_updated": "2026-09-11T20:54:22.373Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome robots that are open source",
