@@ -63,7 +63,7 @@
                 "open_issues": 24,
                 "owner": "AlexanderKoch-Koch",
                 "repo": "low_cost_robot",
-                "stars": 3415,
+                "stars": 3416,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -84,7 +84,7 @@
                 "open_issues": 24,
                 "owner": "AlexanderKoch-Koch",
                 "repo": "low_cost_robot",
-                "stars": 3415,
+                "stars": 3416,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -105,7 +105,7 @@
                 "open_issues": 24,
                 "owner": "AlexanderKoch-Koch",
                 "repo": "low_cost_robot",
-                "stars": 3415,
+                "stars": 3416,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -126,7 +126,7 @@
                 "open_issues": 5,
                 "owner": "AngelLM",
                 "repo": "Thor",
-                "stars": 1595,
+                "stars": 1596,
                 "topics": [
                   "3d-printed",
                   "diy",
@@ -406,7 +406,7 @@
                 "open_issues": 0,
                 "owner": "haraduka",
                 "repo": "mevita",
-                "stars": 104,
+                "stars": 105,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -427,7 +427,7 @@
                 "open_issues": 31,
                 "owner": "apirrone",
                 "repo": "Open_Duck_Mini",
-                "stars": 4108,
+                "stars": 4111,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -448,7 +448,7 @@
                 "open_issues": 31,
                 "owner": "apirrone",
                 "repo": "Open_Duck_Mini",
-                "stars": 4108,
+                "stars": 4111,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -469,7 +469,7 @@
                 "open_issues": 31,
                 "owner": "apirrone",
                 "repo": "Open_Duck_Mini",
-                "stars": 4108,
+                "stars": 4111,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -595,7 +595,7 @@
                 "open_issues": 5,
                 "owner": "upkie",
                 "repo": "upkie",
-                "stars": 430,
+                "stars": 431,
                 "topics": [
                   "legged-robots",
                   "locomotion",
@@ -625,7 +625,7 @@
                 "open_issues": 5,
                 "owner": "upkie",
                 "repo": "upkie",
-                "stars": 430,
+                "stars": 431,
                 "topics": [
                   "legged-robots",
                   "locomotion",
@@ -780,7 +780,7 @@
                 "open_issues": 21,
                 "owner": "pollen-robotics",
                 "repo": "AmazingHand",
-                "stars": 2387,
+                "stars": 2393,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -801,7 +801,7 @@
                 "open_issues": 21,
                 "owner": "pollen-robotics",
                 "repo": "AmazingHand",
-                "stars": 2387,
+                "stars": 2393,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -829,7 +829,7 @@
                 "open_issues": 3,
                 "owner": "menloresearch",
                 "repo": "asimov-1",
-                "stars": 1203,
+                "stars": 1207,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -988,7 +988,7 @@
                 "open_issues": 4,
                 "owner": "poppy-project",
                 "repo": "poppy-humanoid",
-                "stars": 1065,
+                "stars": 1066,
                 "topics": [
                   "poppy",
                   "robot",
@@ -1013,7 +1013,7 @@
                 "open_issues": 4,
                 "owner": "poppy-project",
                 "repo": "poppy-humanoid",
-                "stars": 1065,
+                "stars": 1066,
                 "topics": [
                   "poppy",
                   "robot",
@@ -1038,7 +1038,7 @@
                 "open_issues": 3,
                 "owner": "hshi74",
                 "repo": "toddlerbot",
-                "stars": 764,
+                "stars": 766,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -1059,7 +1059,7 @@
                 "open_issues": 0,
                 "owner": "Rhoban",
                 "repo": "microban",
-                "stars": 438,
+                "stars": 444,
                 "topics": [
                   "diy",
                   "electronics",
@@ -1205,7 +1205,7 @@
                 "open_issues": 30,
                 "owner": "timqian",
                 "repo": "bambot",
-                "stars": 972,
+                "stars": 971,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -1226,7 +1226,7 @@
                 "open_issues": 30,
                 "owner": "timqian",
                 "repo": "bambot",
-                "stars": 972,
+                "stars": 971,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -1369,11 +1369,11 @@
                 "id": 1149586616,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-17T12:29:36Z",
+                "last_commit": "2026-09-18T20:17:15Z",
                 "open_issues": 38,
                 "owner": "Agroecology-Lab",
                 "repo": "feldfreund_devkit_ros",
-                "stars": 99,
+                "stars": 98,
                 "topics": [
                   "agriculture",
                   "agtech",
@@ -1648,7 +1648,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T21:17:37.709Z",
+    "last_updated": "2026-09-18T20:50:49.161Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome robots that are open source",
