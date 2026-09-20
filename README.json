@@ -21,7 +21,7 @@
                 "open_issues": 10,
                 "owner": "jess-moss",
                 "repo": "koch-v1-1",
-                "stars": 731,
+                "stars": 732,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -42,7 +42,7 @@
                 "open_issues": 10,
                 "owner": "jess-moss",
                 "repo": "koch-v1-1",
-                "stars": 731,
+                "stars": 732,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -63,7 +63,7 @@
                 "open_issues": 24,
                 "owner": "AlexanderKoch-Koch",
                 "repo": "low_cost_robot",
-                "stars": 3415,
+                "stars": 3416,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -84,7 +84,7 @@
                 "open_issues": 24,
                 "owner": "AlexanderKoch-Koch",
                 "repo": "low_cost_robot",
-                "stars": 3415,
+                "stars": 3416,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -105,7 +105,7 @@
                 "open_issues": 24,
                 "owner": "AlexanderKoch-Koch",
                 "repo": "low_cost_robot",
-                "stars": 3415,
+                "stars": 3416,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -126,7 +126,7 @@
                 "open_issues": 5,
                 "owner": "AngelLM",
                 "repo": "Thor",
-                "stars": 1596,
+                "stars": 1598,
                 "topics": [
                   "3d-printed",
                   "diy",
@@ -427,7 +427,7 @@
                 "open_issues": 31,
                 "owner": "apirrone",
                 "repo": "Open_Duck_Mini",
-                "stars": 4115,
+                "stars": 4118,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -448,7 +448,7 @@
                 "open_issues": 31,
                 "owner": "apirrone",
                 "repo": "Open_Duck_Mini",
-                "stars": 4115,
+                "stars": 4118,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -469,7 +469,7 @@
                 "open_issues": 31,
                 "owner": "apirrone",
                 "repo": "Open_Duck_Mini",
-                "stars": 4115,
+                "stars": 4118,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -595,7 +595,7 @@
                 "open_issues": 5,
                 "owner": "upkie",
                 "repo": "upkie",
-                "stars": 431,
+                "stars": 432,
                 "topics": [
                   "legged-robots",
                   "locomotion",
@@ -625,7 +625,7 @@
                 "open_issues": 5,
                 "owner": "upkie",
                 "repo": "upkie",
-                "stars": 431,
+                "stars": 432,
                 "topics": [
                   "legged-robots",
                   "locomotion",
@@ -829,7 +829,7 @@
                 "open_issues": 3,
                 "owner": "menloresearch",
                 "repo": "asimov-1",
-                "stars": 1208,
+                "stars": 1211,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -1038,7 +1038,7 @@
                 "open_issues": 3,
                 "owner": "hshi74",
                 "repo": "toddlerbot",
-                "stars": 766,
+                "stars": 767,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -1059,7 +1059,7 @@
                 "open_issues": 0,
                 "owner": "Rhoban",
                 "repo": "microban",
-                "stars": 454,
+                "stars": 463,
                 "topics": [
                   "diy",
                   "electronics",
@@ -1205,7 +1205,7 @@
                 "open_issues": 30,
                 "owner": "timqian",
                 "repo": "bambot",
-                "stars": 971,
+                "stars": 972,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -1226,7 +1226,7 @@
                 "open_issues": 30,
                 "owner": "timqian",
                 "repo": "bambot",
-                "stars": 971,
+                "stars": 972,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -1303,7 +1303,7 @@
                 "open_issues": 2,
                 "owner": "haraduka",
                 "repo": "mevius",
-                "stars": 254,
+                "stars": 255,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -1369,7 +1369,7 @@
                 "id": 1149586616,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-18T21:20:55Z",
+                "last_commit": "2026-09-20T20:44:05Z",
                 "open_issues": 38,
                 "owner": "Agroecology-Lab",
                 "repo": "feldfreund_devkit_ros",
@@ -1446,10 +1446,10 @@
                 "language": "HTML",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-03T19:13:02Z",
-                "open_issues": 14,
+                "open_issues": 16,
                 "owner": "nasa-jpl",
                 "repo": "open-source-rover",
-                "stars": 9657,
+                "stars": 9659,
                 "topics": [
                   "diy",
                   "hardware",
@@ -1648,7 +1648,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T20:33:45.983Z",
+    "last_updated": "2026-09-20T20:44:44.782Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome robots that are open source",
