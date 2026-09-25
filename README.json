@@ -126,7 +126,7 @@
                 "open_issues": 5,
                 "owner": "AngelLM",
                 "repo": "Thor",
-                "stars": 1600,
+                "stars": 1601,
                 "topics": [
                   "3d-printed",
                   "diy",
@@ -427,7 +427,7 @@
                 "open_issues": 31,
                 "owner": "apirrone",
                 "repo": "Open_Duck_Mini",
-                "stars": 4149,
+                "stars": 4150,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -448,7 +448,7 @@
                 "open_issues": 31,
                 "owner": "apirrone",
                 "repo": "Open_Duck_Mini",
-                "stars": 4149,
+                "stars": 4150,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -469,7 +469,7 @@
                 "open_issues": 31,
                 "owner": "apirrone",
                 "repo": "Open_Duck_Mini",
-                "stars": 4149,
+                "stars": 4150,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -780,7 +780,7 @@
                 "open_issues": 21,
                 "owner": "pollen-robotics",
                 "repo": "AmazingHand",
-                "stars": 2398,
+                "stars": 2399,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -801,7 +801,7 @@
                 "open_issues": 21,
                 "owner": "pollen-robotics",
                 "repo": "AmazingHand",
-                "stars": 2398,
+                "stars": 2399,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -829,7 +829,7 @@
                 "open_issues": 3,
                 "owner": "menloresearch",
                 "repo": "asimov-1",
-                "stars": 1217,
+                "stars": 1219,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -1059,7 +1059,7 @@
                 "open_issues": 0,
                 "owner": "Rhoban",
                 "repo": "microban",
-                "stars": 483,
+                "stars": 486,
                 "topics": [
                   "diy",
                   "electronics",
@@ -1369,7 +1369,7 @@
                 "id": 1149586616,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-24T20:02:48Z",
+                "last_commit": "2026-09-25T19:31:04Z",
                 "open_issues": 39,
                 "owner": "Agroecology-Lab",
                 "repo": "feldfreund_devkit_ros",
@@ -1449,7 +1449,7 @@
                 "open_issues": 17,
                 "owner": "nasa-jpl",
                 "repo": "open-source-rover",
-                "stars": 9667,
+                "stars": 9669,
                 "topics": [
                   "diy",
                   "hardware",
@@ -1648,7 +1648,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T21:27:35.896Z",
+    "last_updated": "2026-09-25T21:30:32.801Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome robots that are open source",
