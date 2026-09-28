@@ -63,7 +63,7 @@
                 "open_issues": 24,
                 "owner": "AlexanderKoch-Koch",
                 "repo": "low_cost_robot",
-                "stars": 3420,
+                "stars": 3421,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -84,7 +84,7 @@
                 "open_issues": 24,
                 "owner": "AlexanderKoch-Koch",
                 "repo": "low_cost_robot",
-                "stars": 3420,
+                "stars": 3421,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -105,7 +105,7 @@
                 "open_issues": 24,
                 "owner": "AlexanderKoch-Koch",
                 "repo": "low_cost_robot",
-                "stars": 3420,
+                "stars": 3421,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -427,7 +427,7 @@
                 "open_issues": 31,
                 "owner": "apirrone",
                 "repo": "Open_Duck_Mini",
-                "stars": 4158,
+                "stars": 4163,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -448,7 +448,7 @@
                 "open_issues": 31,
                 "owner": "apirrone",
                 "repo": "Open_Duck_Mini",
-                "stars": 4158,
+                "stars": 4163,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -469,7 +469,7 @@
                 "open_issues": 31,
                 "owner": "apirrone",
                 "repo": "Open_Duck_Mini",
-                "stars": 4158,
+                "stars": 4163,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -780,7 +780,7 @@
                 "open_issues": 21,
                 "owner": "pollen-robotics",
                 "repo": "AmazingHand",
-                "stars": 2399,
+                "stars": 2400,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -801,7 +801,7 @@
                 "open_issues": 21,
                 "owner": "pollen-robotics",
                 "repo": "AmazingHand",
-                "stars": 2399,
+                "stars": 2400,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -825,11 +825,11 @@
                 "id": 1204739178,
                 "language": "Python",
                 "license": "CERN-OHL-S-2.0",
-                "last_commit": "2026-09-24T02:56:30Z",
+                "last_commit": "2026-09-28T06:18:34Z",
                 "open_issues": 4,
                 "owner": "menloresearch",
                 "repo": "asimov-1",
-                "stars": 1227,
+                "stars": 1229,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -1038,7 +1038,7 @@
                 "open_issues": 3,
                 "owner": "hshi74",
                 "repo": "toddlerbot",
-                "stars": 772,
+                "stars": 773,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -1059,7 +1059,7 @@
                 "open_issues": 1,
                 "owner": "Rhoban",
                 "repo": "microban",
-                "stars": 497,
+                "stars": 501,
                 "topics": [
                   "diy",
                   "electronics",
@@ -1156,7 +1156,7 @@
                 "open_issues": 0,
                 "owner": "hidro-iri",
                 "repo": "Borinot",
-                "stars": 24,
+                "stars": 25,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -1177,7 +1177,7 @@
                 "open_issues": 0,
                 "owner": "hidro-iri",
                 "repo": "Borinot",
-                "stars": 24,
+                "stars": 25,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -1369,7 +1369,7 @@
                 "id": 1149586616,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-27T16:02:43Z",
+                "last_commit": "2026-09-28T11:35:02Z",
                 "open_issues": 41,
                 "owner": "Agroecology-Lab",
                 "repo": "feldfreund_devkit_ros",
@@ -1449,7 +1449,7 @@
                 "open_issues": 17,
                 "owner": "nasa-jpl",
                 "repo": "open-source-rover",
-                "stars": 9672,
+                "stars": 9675,
                 "topics": [
                   "diy",
                   "hardware",
@@ -1648,7 +1648,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T21:17:16.636Z",
+    "last_updated": "2026-09-28T23:12:23.686Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome robots that are open source",
@@ -1660,7 +1660,7 @@
       "open_issues": 0,
       "owner": "stephane-caron",
       "repo": "awesome-open-source-robots",
-      "stars": 301,
+      "stars": 302,
       "topics": [
         "awesome",
         "awesome-list",
