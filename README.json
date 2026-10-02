@@ -427,7 +427,7 @@
                 "open_issues": 31,
                 "owner": "apirrone",
                 "repo": "Open_Duck_Mini",
-                "stars": 4176,
+                "stars": 4177,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -448,7 +448,7 @@
                 "open_issues": 31,
                 "owner": "apirrone",
                 "repo": "Open_Duck_Mini",
-                "stars": 4176,
+                "stars": 4177,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -469,7 +469,7 @@
                 "open_issues": 31,
                 "owner": "apirrone",
                 "repo": "Open_Duck_Mini",
-                "stars": 4176,
+                "stars": 4177,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -591,8 +591,8 @@
                 "id": 493355698,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T07:57:18Z",
-                "open_issues": 5,
+                "last_commit": "2026-10-02T14:48:17Z",
+                "open_issues": 6,
                 "owner": "upkie",
                 "repo": "upkie",
                 "stars": 436,
@@ -621,8 +621,8 @@
                 "id": 493355698,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T07:57:18Z",
-                "open_issues": 5,
+                "last_commit": "2026-10-02T14:48:17Z",
+                "open_issues": 6,
                 "owner": "upkie",
                 "repo": "upkie",
                 "stars": 436,
@@ -658,7 +658,7 @@
                 "id": 799462853,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-15T08:39:08Z",
+                "last_commit": "2026-10-02T13:23:36Z",
                 "open_issues": 2,
                 "owner": "ferrolho",
                 "repo": "rotary-inverted-pendulum",
@@ -688,7 +688,7 @@
                 "id": 799462853,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-15T08:39:08Z",
+                "last_commit": "2026-10-02T13:23:36Z",
                 "open_issues": 2,
                 "owner": "ferrolho",
                 "repo": "rotary-inverted-pendulum",
@@ -718,7 +718,7 @@
                 "id": 799462853,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-15T08:39:08Z",
+                "last_commit": "2026-10-02T13:23:36Z",
                 "open_issues": 2,
                 "owner": "ferrolho",
                 "repo": "rotary-inverted-pendulum",
@@ -780,7 +780,7 @@
                 "open_issues": 21,
                 "owner": "pollen-robotics",
                 "repo": "AmazingHand",
-                "stars": 2403,
+                "stars": 2405,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -801,7 +801,7 @@
                 "open_issues": 21,
                 "owner": "pollen-robotics",
                 "repo": "AmazingHand",
-                "stars": 2403,
+                "stars": 2405,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -829,7 +829,7 @@
                 "open_issues": 5,
                 "owner": "menloresearch",
                 "repo": "asimov-1",
-                "stars": 1240,
+                "stars": 1243,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -988,7 +988,7 @@
                 "open_issues": 4,
                 "owner": "poppy-project",
                 "repo": "poppy-humanoid",
-                "stars": 1069,
+                "stars": 1070,
                 "topics": [
                   "poppy",
                   "robot",
@@ -1013,7 +1013,7 @@
                 "open_issues": 4,
                 "owner": "poppy-project",
                 "repo": "poppy-humanoid",
-                "stars": 1069,
+                "stars": 1070,
                 "topics": [
                   "poppy",
                   "robot",
@@ -1038,7 +1038,7 @@
                 "open_issues": 3,
                 "owner": "hshi74",
                 "repo": "toddlerbot",
-                "stars": 778,
+                "stars": 780,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -1059,7 +1059,7 @@
                 "open_issues": 1,
                 "owner": "Rhoban",
                 "repo": "microban",
-                "stars": 516,
+                "stars": 521,
                 "topics": [
                   "diy",
                   "electronics",
@@ -1202,7 +1202,7 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2025-07-14T09:49:10Z",
-                "open_issues": 30,
+                "open_issues": 31,
                 "owner": "timqian",
                 "repo": "bambot",
                 "stars": 977,
@@ -1223,7 +1223,7 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2025-07-14T09:49:10Z",
-                "open_issues": 30,
+                "open_issues": 31,
                 "owner": "timqian",
                 "repo": "bambot",
                 "stars": 977,
@@ -1369,7 +1369,7 @@
                 "id": 1149586616,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-01T21:30:46Z",
+                "last_commit": "2026-10-02T15:42:36Z",
                 "open_issues": 40,
                 "owner": "Agroecology-Lab",
                 "repo": "feldfreund_devkit_ros",
@@ -1449,7 +1449,7 @@
                 "open_issues": 16,
                 "owner": "nasa-jpl",
                 "repo": "open-source-rover",
-                "stars": 9679,
+                "stars": 9677,
                 "topics": [
                   "diy",
                   "hardware",
@@ -1648,7 +1648,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T22:37:27.417Z",
+    "last_updated": "2026-10-02T22:08:00.403Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome robots that are open source",
