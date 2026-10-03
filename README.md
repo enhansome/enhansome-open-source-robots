@@ -65,7 +65,7 @@ In this context, "hardware" includes electronics and mechanical designs, basical
 
 | Project      | Maker                                               | Hardware                                                                                                                                                                                                                                                                                                                                            | HW License | Software                                                                                                          | SW License |
 | ------------ | --------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ----------------------------------------------------------------------------------------------------------------- | ---------- |
-| Amazing Hand | [Pollen Robotics](https://www.pollen-robotics.com/) | [Assembly guide](https://github.com/pollen-robotics/AmazingHand/blob/4c5cb2f2ad758a3df90200eb0184b0af32d5706b/docs/AmazingHand_Assembly.pdf) ⭐ 2,405 \| 🐛 21 \| 🌐 Python \| 📅 2026-04-23, [CAD](https://github.com/pollen-robotics/AmazingHand/tree/4c5cb2f2ad758a3df90200eb0184b0af32d5706b/cad) ⭐ 2,405 \| 🐛 21 \| 🌐 Python \| 📅 2026-04-23 | Apache-2.0 | [GitHub](https://github.com/pollen-robotics/AmazingHand/tree/main) ⭐ 2,405 \| 🐛 21 \| 🌐 Python \| 📅 2026-04-23 | Apache-2.0 |
+| Amazing Hand | [Pollen Robotics](https://www.pollen-robotics.com/) | [Assembly guide](https://github.com/pollen-robotics/AmazingHand/blob/4c5cb2f2ad758a3df90200eb0184b0af32d5706b/docs/AmazingHand_Assembly.pdf) ⭐ 2,406 \| 🐛 21 \| 🌐 Python \| 📅 2026-04-23, [CAD](https://github.com/pollen-robotics/AmazingHand/tree/4c5cb2f2ad758a3df90200eb0184b0af32d5706b/cad) ⭐ 2,406 \| 🐛 21 \| 🌐 Python \| 📅 2026-04-23 | Apache-2.0 | [GitHub](https://github.com/pollen-robotics/AmazingHand/tree/main) ⭐ 2,406 \| 🐛 21 \| 🌐 Python \| 📅 2026-04-23 | Apache-2.0 |
 
 ### Humanoids
 
@@ -76,7 +76,7 @@ In this context, "hardware" includes electronics and mechanical designs, basical
 | [Poppy Ergo Jr](https://github.com/poppy-project/poppy-ergo-jr/) ⭐ 228 \| 🐛 15 \| 🌐 Jupyter Notebook \| 📅 2022-05-30 | Poppy project                                  | [Hardware](https://github.com/poppy-project/poppy-ergo-jr/tree/master/hardware) ⭐ 228 \| 🐛 15 \| 🌐 Jupyter Notebook \| 📅 2022-05-30   | CC-BY-SA-4.0      | [Software](https://github.com/poppy-project/poppy-ergo-jr/tree/master/software) ⭐ 228 \| 🐛 15 \| 🌐 Jupyter Notebook \| 📅 2022-05-30 | GPL-3.0      |
 | [Poppy Humanoid](https://www.poppy-project.org/en/robots/poppy-humanoid/)                                               | Poppy project                                  | [Hardware](https://github.com/poppy-project/poppy-humanoid/tree/master/hardware) ⭐ 1,070 \| 🐛 4 \| 🌐 Jupyter Notebook \| 📅 2021-12-06 | CC-BY-SA-4.0      | [GitHub](https://github.com/poppy-project/poppy-humanoid/tree/master/software) ⭐ 1,070 \| 🐛 4 \| 🌐 Jupyter Notebook \| 📅 2021-12-06 | GPL-3.0      |
 | [ToddlerBot](https://toddlerbot.github.io/)                                                                             | Stanford University                            | [MakerWorld](https://makerworld.com/fr/models/1068768#profileId-1058247)                                                                 | ❌ CC-BY-NC-SA-4.0 | [GitHub](https://github.com/hshi74/toddlerbot) ⭐ 780 \| 🐛 3 \| 🌐 Python \| 📅 2026-07-31                                             | MIT          |
-| [Microban](https://github.com/Rhoban/microban) ⭐ 521 \| 🐛 1 \| 🌐 Python \| 📅 2026-09-10                              | [Marc Duclusaud](https://github.com/MarcDcls)  | [Github](https://github.com/Rhoban/microban) ⭐ 521 \| 🐛 1 \| 🌐 Python \| 📅 2026-09-10                                                 | ❌ CC-BY-NC-SA-4.0 | [GitHub](https://github.com/Rhoban/microban) ⭐ 521 \| 🐛 1 \| 🌐 Python \| 📅 2026-09-10                                               | GPL-3.0      |
+| [Microban](https://github.com/Rhoban/microban) ⭐ 523 \| 🐛 1 \| 🌐 Python \| 📅 2026-09-10                              | [Marc Duclusaud](https://github.com/MarcDcls)  | [Github](https://github.com/Rhoban/microban) ⭐ 523 \| 🐛 1 \| 🌐 Python \| 📅 2026-09-10                                                 | ❌ CC-BY-NC-SA-4.0 | [GitHub](https://github.com/Rhoban/microban) ⭐ 523 \| 🐛 1 \| 🌐 Python \| 📅 2026-09-10                                               | GPL-3.0      |
 
 ### Hybrid
 
@@ -89,7 +89,7 @@ In this context, "hardware" includes electronics and mechanical designs, basical
 
 | Project                       | Maker    | Hardware                                                                                                        | HW License | Software                                                                                     | SW License |
 | ----------------------------- | -------- | --------------------------------------------------------------------------------------------------------------- | ---------- | -------------------------------------------------------------------------------------------- | ---------- |
-| [BamBot](https://bambot.org/) | Tim Qian | [GitHub](https://github.com/timqian/bambot/tree/main/hardware) ⭐ 977 \| 🐛 31 \| 🌐 TypeScript \| 📅 2025-07-14 | Apache-2.0 | [GitHub](https://github.com/timqian/bambot) ⭐ 977 \| 🐛 31 \| 🌐 TypeScript \| 📅 2025-07-14 | Apache-2.0 |
+| [BamBot](https://bambot.org/) | Tim Qian | [GitHub](https://github.com/timqian/bambot/tree/main/hardware) ⭐ 978 \| 🐛 31 \| 🌐 TypeScript \| 📅 2025-07-14 | Apache-2.0 | [GitHub](https://github.com/timqian/bambot) ⭐ 978 \| 🐛 31 \| 🌐 TypeScript \| 📅 2025-07-14 | Apache-2.0 |
 
 ### Parallel
 
@@ -128,4 +128,4 @@ New robots are welcome to the list, as long as they are [open source](CONTRIBUTI
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
