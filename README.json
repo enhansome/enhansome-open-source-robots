@@ -122,11 +122,11 @@
                 "id": 1376769300,
                 "language": null,
                 "license": "CC-BY-4.0",
-                "last_commit": "2026-10-10T19:42:04Z",
+                "last_commit": "2026-10-12T12:26:31Z",
                 "open_issues": 0,
                 "owner": "roboninecom",
                 "repo": "SO-ARM-102",
-                "stars": 72,
+                "stars": 110,
                 "topics": [
                   "3d-printing",
                   "lerobot",
@@ -150,11 +150,11 @@
                 "id": 1376769300,
                 "language": null,
                 "license": "CC-BY-4.0",
-                "last_commit": "2026-10-10T19:42:04Z",
+                "last_commit": "2026-10-12T12:26:31Z",
                 "open_issues": 0,
                 "owner": "roboninecom",
                 "repo": "SO-ARM-102",
-                "stars": 72,
+                "stars": 110,
                 "topics": [
                   "3d-printing",
                   "lerobot",
@@ -178,11 +178,11 @@
                 "id": 748713144,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-11T19:14:59Z",
-                "open_issues": 992,
+                "last_commit": "2026-10-12T14:46:48Z",
+                "open_issues": 1001,
                 "owner": "huggingface",
                 "repo": "lerobot",
-                "stars": 28078,
+                "stars": 28111,
                 "topics": []
               },
               "first_seen": "2026-10-11T21:51:05.143Z"
@@ -504,7 +504,7 @@
                 "open_issues": 31,
                 "owner": "apirrone",
                 "repo": "Open_Duck_Mini",
-                "stars": 4234,
+                "stars": 4252,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -525,7 +525,7 @@
                 "open_issues": 31,
                 "owner": "apirrone",
                 "repo": "Open_Duck_Mini",
-                "stars": 4234,
+                "stars": 4252,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -546,7 +546,7 @@
                 "open_issues": 31,
                 "owner": "apirrone",
                 "repo": "Open_Duck_Mini",
-                "stars": 4234,
+                "stars": 4252,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -857,7 +857,7 @@
                 "open_issues": 21,
                 "owner": "pollen-robotics",
                 "repo": "AmazingHand",
-                "stars": 2424,
+                "stars": 2427,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -878,7 +878,7 @@
                 "open_issues": 21,
                 "owner": "pollen-robotics",
                 "repo": "AmazingHand",
-                "stars": 2424,
+                "stars": 2427,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -906,7 +906,7 @@
                 "open_issues": 5,
                 "owner": "menloresearch",
                 "repo": "asimov-1",
-                "stars": 1267,
+                "stars": 1272,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -1065,7 +1065,7 @@
                 "open_issues": 4,
                 "owner": "poppy-project",
                 "repo": "poppy-humanoid",
-                "stars": 1077,
+                "stars": 1078,
                 "topics": [
                   "poppy",
                   "robot",
@@ -1090,7 +1090,7 @@
                 "open_issues": 4,
                 "owner": "poppy-project",
                 "repo": "poppy-humanoid",
-                "stars": 1077,
+                "stars": 1078,
                 "topics": [
                   "poppy",
                   "robot",
@@ -1115,7 +1115,7 @@
                 "open_issues": 3,
                 "owner": "hshi74",
                 "repo": "toddlerbot",
-                "stars": 781,
+                "stars": 783,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -1136,7 +1136,7 @@
                 "open_issues": 1,
                 "owner": "Rhoban",
                 "repo": "microban",
-                "stars": 543,
+                "stars": 547,
                 "topics": [
                   "diy",
                   "electronics",
@@ -1446,8 +1446,8 @@
                 "id": 1149586616,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-11T21:49:58Z",
-                "open_issues": 57,
+                "last_commit": "2026-10-12T21:26:14Z",
+                "open_issues": 47,
                 "owner": "Agroecology-Lab",
                 "repo": "feldfreund_devkit_ros",
                 "stars": 98,
@@ -1526,7 +1526,7 @@
                 "open_issues": 17,
                 "owner": "nasa-jpl",
                 "repo": "open-source-rover",
-                "stars": 9698,
+                "stars": 9706,
                 "topics": [
                   "diy",
                   "hardware",
@@ -1555,7 +1555,7 @@
                 "open_issues": 20,
                 "owner": "nasa-jpl",
                 "repo": "osr-rover-code",
-                "stars": 542,
+                "stars": 543,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -1725,7 +1725,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T21:51:05.143Z",
+    "last_updated": "2026-10-13T00:33:44.631Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome robots that are open source",
@@ -1737,7 +1737,7 @@
       "open_issues": 0,
       "owner": "stephane-caron",
       "repo": "awesome-open-source-robots",
-      "stars": 306,
+      "stars": 307,
       "topics": [
         "awesome",
         "awesome-list",
