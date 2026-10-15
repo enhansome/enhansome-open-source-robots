@@ -122,11 +122,11 @@
                 "id": 1376769300,
                 "language": null,
                 "license": "CC-BY-4.0",
-                "last_commit": "2026-10-13T21:20:28Z",
+                "last_commit": "2026-10-14T23:44:32Z",
                 "open_issues": 0,
                 "owner": "roboninecom",
                 "repo": "SO-ARM-102",
-                "stars": 139,
+                "stars": 142,
                 "topics": [
                   "3d-printing",
                   "lerobot",
@@ -150,11 +150,11 @@
                 "id": 1376769300,
                 "language": null,
                 "license": "CC-BY-4.0",
-                "last_commit": "2026-10-13T21:20:28Z",
+                "last_commit": "2026-10-14T23:44:32Z",
                 "open_issues": 0,
                 "owner": "roboninecom",
                 "repo": "SO-ARM-102",
-                "stars": 139,
+                "stars": 142,
                 "topics": [
                   "3d-printing",
                   "lerobot",
@@ -178,11 +178,11 @@
                 "id": 748713144,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-14T16:15:06Z",
-                "open_issues": 1011,
+                "last_commit": "2026-10-15T16:30:59Z",
+                "open_issues": 1015,
                 "owner": "huggingface",
                 "repo": "lerobot",
-                "stars": 28175,
+                "stars": 28201,
                 "topics": []
               },
               "first_seen": "2026-10-11T21:51:05.143Z"
@@ -203,7 +203,7 @@
                 "open_issues": 5,
                 "owner": "AngelLM",
                 "repo": "Thor",
-                "stars": 1618,
+                "stars": 1619,
                 "topics": [
                   "3d-printed",
                   "diy",
@@ -504,7 +504,7 @@
                 "open_issues": 31,
                 "owner": "apirrone",
                 "repo": "Open_Duck_Mini",
-                "stars": 4271,
+                "stars": 4290,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -525,7 +525,7 @@
                 "open_issues": 31,
                 "owner": "apirrone",
                 "repo": "Open_Duck_Mini",
-                "stars": 4271,
+                "stars": 4290,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -546,7 +546,7 @@
                 "open_issues": 31,
                 "owner": "apirrone",
                 "repo": "Open_Duck_Mini",
-                "stars": 4271,
+                "stars": 4290,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -672,7 +672,7 @@
                 "open_issues": 5,
                 "owner": "upkie",
                 "repo": "upkie",
-                "stars": 443,
+                "stars": 444,
                 "topics": [
                   "legged-robots",
                   "locomotion",
@@ -702,7 +702,7 @@
                 "open_issues": 5,
                 "owner": "upkie",
                 "repo": "upkie",
-                "stars": 443,
+                "stars": 444,
                 "topics": [
                   "legged-robots",
                   "locomotion",
@@ -857,7 +857,7 @@
                 "open_issues": 22,
                 "owner": "pollen-robotics",
                 "repo": "AmazingHand",
-                "stars": 2435,
+                "stars": 2436,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -878,7 +878,7 @@
                 "open_issues": 22,
                 "owner": "pollen-robotics",
                 "repo": "AmazingHand",
-                "stars": 2435,
+                "stars": 2436,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -906,7 +906,7 @@
                 "open_issues": 5,
                 "owner": "menloresearch",
                 "repo": "asimov-1",
-                "stars": 1279,
+                "stars": 1281,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -1065,7 +1065,7 @@
                 "open_issues": 4,
                 "owner": "poppy-project",
                 "repo": "poppy-humanoid",
-                "stars": 1077,
+                "stars": 1078,
                 "topics": [
                   "poppy",
                   "robot",
@@ -1090,7 +1090,7 @@
                 "open_issues": 4,
                 "owner": "poppy-project",
                 "repo": "poppy-humanoid",
-                "stars": 1077,
+                "stars": 1078,
                 "topics": [
                   "poppy",
                   "robot",
@@ -1115,7 +1115,7 @@
                 "open_issues": 3,
                 "owner": "hshi74",
                 "repo": "toddlerbot",
-                "stars": 784,
+                "stars": 783,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -1136,7 +1136,7 @@
                 "open_issues": 1,
                 "owner": "Rhoban",
                 "repo": "microban",
-                "stars": 553,
+                "stars": 554,
                 "topics": [
                   "diy",
                   "electronics",
@@ -1526,7 +1526,7 @@
                 "open_issues": 17,
                 "owner": "nasa-jpl",
                 "repo": "open-source-rover",
-                "stars": 9710,
+                "stars": 9714,
                 "topics": [
                   "diy",
                   "hardware",
@@ -1664,6 +1664,56 @@
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
+            },
+            {
+              "node_type": "item",
+              "title": "AndReGeist/wheelbot",
+              "description": "AndReGeist/wheelbot",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "The Wheelbot: A Jumping Reaction Wheel Unicycle - ICRA 2022",
+                "homepage": "https://sites.google.com/view/wheelbot/start",
+                "id": 499482971,
+                "language": "Jupyter Notebook",
+                "license": "GPL-3.0",
+                "last_commit": "2025-03-04T16:15:25Z",
+                "open_issues": 4,
+                "owner": "AndReGeist",
+                "repo": "wheelbot",
+                "stars": 141,
+                "topics": [
+                  "hardware-designs",
+                  "robotics",
+                  "unicycle"
+                ]
+              },
+              "first_seen": "2026-10-15T21:17:27.582Z"
+            },
+            {
+              "node_type": "item",
+              "title": "AndReGeist/wheelbot",
+              "description": "AndReGeist/wheelbot",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "The Wheelbot: A Jumping Reaction Wheel Unicycle - ICRA 2022",
+                "homepage": "https://sites.google.com/view/wheelbot/start",
+                "id": 499482971,
+                "language": "Jupyter Notebook",
+                "license": "GPL-3.0",
+                "last_commit": "2025-03-04T16:15:25Z",
+                "open_issues": 4,
+                "owner": "AndReGeist",
+                "repo": "wheelbot",
+                "stars": 141,
+                "topics": [
+                  "hardware-designs",
+                  "robotics",
+                  "unicycle"
+                ]
+              },
+              "first_seen": "2026-10-15T21:17:27.582Z"
             }
           ],
           "description": null,
@@ -1675,7 +1725,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T21:36:18.644Z",
+    "last_updated": "2026-10-15T21:17:27.582Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome robots that are open source",
@@ -1687,7 +1737,7 @@
       "open_issues": 0,
       "owner": "stephane-caron",
       "repo": "awesome-open-source-robots",
-      "stars": 308,
+      "stars": 309,
       "topics": [
         "awesome",
         "awesome-list",
