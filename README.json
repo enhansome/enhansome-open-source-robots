@@ -122,8 +122,8 @@
                 "id": 1376769300,
                 "language": null,
                 "license": "CC-BY-4.0",
-                "last_commit": "2026-10-21T11:53:21Z",
-                "open_issues": 2,
+                "last_commit": "2026-10-22T20:39:04Z",
+                "open_issues": 1,
                 "owner": "roboninecom",
                 "repo": "SO-ARM-102",
                 "stars": 165,
@@ -150,8 +150,8 @@
                 "id": 1376769300,
                 "language": null,
                 "license": "CC-BY-4.0",
-                "last_commit": "2026-10-21T11:53:21Z",
-                "open_issues": 2,
+                "last_commit": "2026-10-22T20:39:04Z",
+                "open_issues": 1,
                 "owner": "roboninecom",
                 "repo": "SO-ARM-102",
                 "stars": 165,
@@ -178,11 +178,11 @@
                 "id": 748713144,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-21T21:31:43Z",
-                "open_issues": 841,
+                "last_commit": "2026-10-22T14:21:50Z",
+                "open_issues": 851,
                 "owner": "huggingface",
                 "repo": "lerobot",
-                "stars": 28370,
+                "stars": 28402,
                 "topics": []
               },
               "first_seen": "2026-10-11T21:51:05.143Z"
@@ -203,7 +203,7 @@
                 "open_issues": 5,
                 "owner": "AngelLM",
                 "repo": "Thor",
-                "stars": 1624,
+                "stars": 1625,
                 "topics": [
                   "3d-printed",
                   "diy",
@@ -260,7 +260,7 @@
                 "open_issues": 4,
                 "owner": "open-dynamic-robot-initiative",
                 "repo": "open_robot_actuator_hardware",
-                "stars": 1499,
+                "stars": 1501,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -281,7 +281,7 @@
                 "open_issues": 0,
                 "owner": "MarcDcls",
                 "repo": "coconuts",
-                "stars": 24,
+                "stars": 25,
                 "topics": [
                   "humanoid-robot",
                   "mechanical-design",
@@ -306,7 +306,7 @@
                 "open_issues": 0,
                 "owner": "MarcDcls",
                 "repo": "coconuts",
-                "stars": 24,
+                "stars": 25,
                 "topics": [
                   "humanoid-robot",
                   "mechanical-design",
@@ -331,7 +331,7 @@
                 "open_issues": 0,
                 "owner": "MarcDcls",
                 "repo": "coconuts",
-                "stars": 24,
+                "stars": 25,
                 "topics": [
                   "humanoid-robot",
                   "mechanical-design",
@@ -504,7 +504,7 @@
                 "open_issues": 31,
                 "owner": "apirrone",
                 "repo": "Open_Duck_Mini",
-                "stars": 4339,
+                "stars": 4368,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -525,7 +525,7 @@
                 "open_issues": 31,
                 "owner": "apirrone",
                 "repo": "Open_Duck_Mini",
-                "stars": 4339,
+                "stars": 4368,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -546,7 +546,7 @@
                 "open_issues": 31,
                 "owner": "apirrone",
                 "repo": "Open_Duck_Mini",
-                "stars": 4339,
+                "stars": 4368,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -672,7 +672,7 @@
                 "open_issues": 5,
                 "owner": "upkie",
                 "repo": "upkie",
-                "stars": 448,
+                "stars": 451,
                 "topics": [
                   "legged-robots",
                   "locomotion",
@@ -702,7 +702,7 @@
                 "open_issues": 5,
                 "owner": "upkie",
                 "repo": "upkie",
-                "stars": 448,
+                "stars": 451,
                 "topics": [
                   "legged-robots",
                   "locomotion",
@@ -739,7 +739,7 @@
                 "open_issues": 2,
                 "owner": "ferrolho",
                 "repo": "rotary-inverted-pendulum",
-                "stars": 101,
+                "stars": 102,
                 "topics": [
                   "control-theory",
                   "furuta-pendulum",
@@ -769,7 +769,7 @@
                 "open_issues": 2,
                 "owner": "ferrolho",
                 "repo": "rotary-inverted-pendulum",
-                "stars": 101,
+                "stars": 102,
                 "topics": [
                   "control-theory",
                   "furuta-pendulum",
@@ -799,7 +799,7 @@
                 "open_issues": 2,
                 "owner": "ferrolho",
                 "repo": "rotary-inverted-pendulum",
-                "stars": 101,
+                "stars": 102,
                 "topics": [
                   "control-theory",
                   "furuta-pendulum",
@@ -857,7 +857,7 @@
                 "open_issues": 22,
                 "owner": "pollen-robotics",
                 "repo": "AmazingHand",
-                "stars": 2463,
+                "stars": 2469,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -878,7 +878,7 @@
                 "open_issues": 22,
                 "owner": "pollen-robotics",
                 "repo": "AmazingHand",
-                "stars": 2463,
+                "stars": 2469,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -902,11 +902,11 @@
                 "id": 1204739178,
                 "language": "Python",
                 "license": "CERN-OHL-S-2.0",
-                "last_commit": "2026-10-16T10:04:24Z",
+                "last_commit": "2026-10-22T11:39:06Z",
                 "open_issues": 6,
                 "owner": "menloresearch",
                 "repo": "asimov-1",
-                "stars": 1306,
+                "stars": 1315,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -990,7 +990,7 @@
                 "open_issues": 15,
                 "owner": "poppy-project",
                 "repo": "poppy-ergo-jr",
-                "stars": 228,
+                "stars": 229,
                 "topics": [
                   "dynamixel",
                   "raspberry-pi",
@@ -1015,7 +1015,7 @@
                 "open_issues": 15,
                 "owner": "poppy-project",
                 "repo": "poppy-ergo-jr",
-                "stars": 228,
+                "stars": 229,
                 "topics": [
                   "dynamixel",
                   "raspberry-pi",
@@ -1040,7 +1040,7 @@
                 "open_issues": 15,
                 "owner": "poppy-project",
                 "repo": "poppy-ergo-jr",
-                "stars": 228,
+                "stars": 229,
                 "topics": [
                   "dynamixel",
                   "raspberry-pi",
@@ -1136,7 +1136,7 @@
                 "open_issues": 1,
                 "owner": "Rhoban",
                 "repo": "microban",
-                "stars": 589,
+                "stars": 594,
                 "topics": [
                   "diy",
                   "electronics",
@@ -1331,7 +1331,7 @@
                 "open_issues": 4,
                 "owner": "open-dynamic-robot-initiative",
                 "repo": "open_robot_actuator_hardware",
-                "stars": 1499,
+                "stars": 1501,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -1422,7 +1422,7 @@
                 "open_issues": 4,
                 "owner": "open-dynamic-robot-initiative",
                 "repo": "open_robot_actuator_hardware",
-                "stars": 1499,
+                "stars": 1501,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -1446,8 +1446,8 @@
                 "id": 1149586616,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-21T21:16:13Z",
-                "open_issues": 31,
+                "last_commit": "2026-10-22T21:03:03Z",
+                "open_issues": 32,
                 "owner": "Agroecology-Lab",
                 "repo": "Sowbot",
                 "stars": 98,
@@ -1522,11 +1522,11 @@
                 "id": 139205847,
                 "language": "HTML",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-03T19:13:02Z",
-                "open_issues": 18,
+                "last_commit": "2026-10-22T17:26:48Z",
+                "open_issues": 16,
                 "owner": "nasa-jpl",
                 "repo": "open-source-rover",
-                "stars": 9723,
+                "stars": 9728,
                 "topics": [
                   "diy",
                   "hardware",
@@ -1551,8 +1551,8 @@
                 "id": 139206609,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-20T01:51:47Z",
-                "open_issues": 22,
+                "last_commit": "2026-10-22T17:13:22Z",
+                "open_issues": 19,
                 "owner": "nasa-jpl",
                 "repo": "osr-rover-code",
                 "stars": 543,
@@ -1725,7 +1725,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T21:35:35.599Z",
+    "last_updated": "2026-10-22T21:29:18.141Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome robots that are open source",
