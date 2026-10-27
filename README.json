@@ -117,23 +117,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Open-source leader + follower robot arm kit: 5 DOF + gripper, PET-CF frame, parallel gripper, LeRobot-compatible. STEP/STL, BOM, print and assembly guide.",
+                "description": "An open-source SO-ARM102 robot arm, successor to SO-ARM100 and SO-ARM101. LeRobot-compatible leader-follower kit for teleoperation and imitation learning, with improved rigidity, parallel gripper, STEP/STL files and BOM.",
                 "homepage": "https://robonine.com",
                 "id": 1376769300,
                 "language": null,
                 "license": "CC-BY-4.0",
-                "last_commit": "2026-10-26T19:13:25Z",
-                "open_issues": 4,
+                "last_commit": "2026-10-27T20:31:08Z",
+                "open_issues": 2,
                 "owner": "roboninecom",
                 "repo": "SO-ARM-102",
-                "stars": 166,
+                "stars": 172,
                 "topics": [
                   "3d-printing",
+                  "imitation-learning",
                   "lerobot",
                   "open-hardware",
                   "robot-arm",
+                  "robot-learning",
                   "robotics",
-                  "so-arm"
+                  "so-100",
+                  "so-101",
+                  "so-102",
+                  "so-arm",
+                  "so-arm100",
+                  "so-arm101",
+                  "so-arm102",
+                  "teleoperation"
                 ]
               },
               "first_seen": "2026-10-11T21:51:05.143Z"
@@ -145,23 +154,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Open-source leader + follower robot arm kit: 5 DOF + gripper, PET-CF frame, parallel gripper, LeRobot-compatible. STEP/STL, BOM, print and assembly guide.",
+                "description": "An open-source SO-ARM102 robot arm, successor to SO-ARM100 and SO-ARM101. LeRobot-compatible leader-follower kit for teleoperation and imitation learning, with improved rigidity, parallel gripper, STEP/STL files and BOM.",
                 "homepage": "https://robonine.com",
                 "id": 1376769300,
                 "language": null,
                 "license": "CC-BY-4.0",
-                "last_commit": "2026-10-26T19:13:25Z",
-                "open_issues": 4,
+                "last_commit": "2026-10-27T20:31:08Z",
+                "open_issues": 2,
                 "owner": "roboninecom",
                 "repo": "SO-ARM-102",
-                "stars": 166,
+                "stars": 172,
                 "topics": [
                   "3d-printing",
+                  "imitation-learning",
                   "lerobot",
                   "open-hardware",
                   "robot-arm",
+                  "robot-learning",
                   "robotics",
-                  "so-arm"
+                  "so-100",
+                  "so-101",
+                  "so-102",
+                  "so-arm",
+                  "so-arm100",
+                  "so-arm101",
+                  "so-arm102",
+                  "teleoperation"
                 ]
               },
               "first_seen": "2026-10-11T21:51:05.143Z"
@@ -178,11 +196,11 @@
                 "id": 748713144,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-26T19:39:56Z",
-                "open_issues": 888,
+                "last_commit": "2026-10-27T21:59:07Z",
+                "open_issues": 900,
                 "owner": "huggingface",
                 "repo": "lerobot",
-                "stars": 28490,
+                "stars": 28526,
                 "topics": []
               },
               "first_seen": "2026-10-11T21:51:05.143Z"
@@ -203,7 +221,7 @@
                 "open_issues": 5,
                 "owner": "AngelLM",
                 "repo": "Thor",
-                "stars": 1629,
+                "stars": 1630,
                 "topics": [
                   "3d-printed",
                   "diy",
@@ -260,7 +278,7 @@
                 "open_issues": 4,
                 "owner": "open-dynamic-robot-initiative",
                 "repo": "open_robot_actuator_hardware",
-                "stars": 1506,
+                "stars": 1508,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -504,7 +522,7 @@
                 "open_issues": 31,
                 "owner": "apirrone",
                 "repo": "Open_Duck_Mini",
-                "stars": 4522,
+                "stars": 4547,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -525,7 +543,7 @@
                 "open_issues": 31,
                 "owner": "apirrone",
                 "repo": "Open_Duck_Mini",
-                "stars": 4522,
+                "stars": 4547,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -546,7 +564,7 @@
                 "open_issues": 31,
                 "owner": "apirrone",
                 "repo": "Open_Duck_Mini",
-                "stars": 4522,
+                "stars": 4547,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -857,7 +875,7 @@
                 "open_issues": 22,
                 "owner": "pollen-robotics",
                 "repo": "AmazingHand",
-                "stars": 2487,
+                "stars": 2491,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -878,7 +896,7 @@
                 "open_issues": 22,
                 "owner": "pollen-robotics",
                 "repo": "AmazingHand",
-                "stars": 2487,
+                "stars": 2491,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -906,7 +924,7 @@
                 "open_issues": 6,
                 "owner": "menloresearch",
                 "repo": "asimov-1",
-                "stars": 1338,
+                "stars": 1343,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -1065,7 +1083,7 @@
                 "open_issues": 4,
                 "owner": "poppy-project",
                 "repo": "poppy-humanoid",
-                "stars": 1084,
+                "stars": 1088,
                 "topics": [
                   "poppy",
                   "robot",
@@ -1090,7 +1108,7 @@
                 "open_issues": 4,
                 "owner": "poppy-project",
                 "repo": "poppy-humanoid",
-                "stars": 1084,
+                "stars": 1088,
                 "topics": [
                   "poppy",
                   "robot",
@@ -1115,7 +1133,7 @@
                 "open_issues": 3,
                 "owner": "hshi74",
                 "repo": "toddlerbot",
-                "stars": 792,
+                "stars": 794,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -1132,11 +1150,11 @@
                 "id": 1230832604,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-10T00:04:15Z",
+                "last_commit": "2026-10-27T21:04:09Z",
                 "open_issues": 1,
                 "owner": "Rhoban",
                 "repo": "microban",
-                "stars": 621,
+                "stars": 631,
                 "topics": [
                   "diy",
                   "electronics",
@@ -1331,7 +1349,7 @@
                 "open_issues": 4,
                 "owner": "open-dynamic-robot-initiative",
                 "repo": "open_robot_actuator_hardware",
-                "stars": 1506,
+                "stars": 1508,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -1422,7 +1440,7 @@
                 "open_issues": 4,
                 "owner": "open-dynamic-robot-initiative",
                 "repo": "open_robot_actuator_hardware",
-                "stars": 1506,
+                "stars": 1508,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -1526,7 +1544,7 @@
                 "open_issues": 16,
                 "owner": "nasa-jpl",
                 "repo": "open-source-rover",
-                "stars": 9733,
+                "stars": 9735,
                 "topics": [
                   "diy",
                   "hardware",
@@ -1555,7 +1573,7 @@
                 "open_issues": 22,
                 "owner": "nasa-jpl",
                 "repo": "osr-rover-code",
-                "stars": 543,
+                "stars": 544,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -1725,7 +1743,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T22:36:15.900Z",
+    "last_updated": "2026-10-27T22:07:04.260Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome robots that are open source",
