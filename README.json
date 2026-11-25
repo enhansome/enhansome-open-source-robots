@@ -126,7 +126,7 @@
                 "open_issues": 7,
                 "owner": "roboninecom",
                 "repo": "SO-ARM102",
-                "stars": 323,
+                "stars": 344,
                 "topics": [
                   "3d-printing",
                   "imitation-learning",
@@ -163,7 +163,7 @@
                 "open_issues": 7,
                 "owner": "roboninecom",
                 "repo": "SO-ARM102",
-                "stars": 323,
+                "stars": 344,
                 "topics": [
                   "3d-printing",
                   "imitation-learning",
@@ -196,11 +196,11 @@
                 "id": 748713144,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-24T03:31:30Z",
-                "open_issues": 1016,
+                "last_commit": "2026-11-24T17:29:09Z",
+                "open_issues": 1019,
                 "owner": "huggingface",
                 "repo": "lerobot",
-                "stars": 29053,
+                "stars": 29076,
                 "topics": []
               },
               "first_seen": "2026-10-11T21:51:05.143Z"
@@ -221,7 +221,7 @@
                 "open_issues": 5,
                 "owner": "AngelLM",
                 "repo": "Thor",
-                "stars": 1659,
+                "stars": 1661,
                 "topics": [
                   "3d-printed",
                   "diy",
@@ -581,7 +581,7 @@
                 "open_issues": 32,
                 "owner": "apirrone",
                 "repo": "Open_Duck_Mini",
-                "stars": 4777,
+                "stars": 4786,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -602,7 +602,7 @@
                 "open_issues": 32,
                 "owner": "apirrone",
                 "repo": "Open_Duck_Mini",
-                "stars": 4777,
+                "stars": 4786,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -623,7 +623,7 @@
                 "open_issues": 32,
                 "owner": "apirrone",
                 "repo": "Open_Duck_Mini",
-                "stars": 4777,
+                "stars": 4786,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -773,7 +773,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-22T10:41:46Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "upkie",
                 "repo": "upkie",
                 "stars": 466,
@@ -928,10 +928,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-04-23T10:21:30Z",
-                "open_issues": 24,
+                "open_issues": 23,
                 "owner": "pollen-robotics",
                 "repo": "AmazingHand",
-                "stars": 2570,
+                "stars": 2573,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -949,10 +949,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-04-23T10:21:30Z",
-                "open_issues": 24,
+                "open_issues": 23,
                 "owner": "pollen-robotics",
                 "repo": "AmazingHand",
-                "stars": 2570,
+                "stars": 2573,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -980,7 +980,7 @@
                 "open_issues": 7,
                 "owner": "menloresearch",
                 "repo": "asimov-1",
-                "stars": 1601,
+                "stars": 1603,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -1026,7 +1026,7 @@
                 "open_issues": 8,
                 "owner": "HybridRobotics",
                 "repo": "berkeley-humanoid-lite",
-                "stars": 2027,
+                "stars": 2031,
                 "topics": [
                   "berkeley-humanoids"
                 ]
@@ -1187,7 +1187,7 @@
                 "open_issues": 4,
                 "owner": "poppy-project",
                 "repo": "poppy-humanoid",
-                "stars": 1109,
+                "stars": 1110,
                 "topics": [
                   "poppy",
                   "robot",
@@ -1212,7 +1212,7 @@
                 "open_issues": 4,
                 "owner": "poppy-project",
                 "repo": "poppy-humanoid",
-                "stars": 1109,
+                "stars": 1110,
                 "topics": [
                   "poppy",
                   "robot",
@@ -1237,7 +1237,7 @@
                 "open_issues": 2,
                 "owner": "hshi74",
                 "repo": "toddlerbot",
-                "stars": 807,
+                "stars": 809,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:53.826Z"
@@ -1572,7 +1572,7 @@
                 "open_issues": 10,
                 "owner": "Agroecology-Lab",
                 "repo": "Sowbot",
-                "stars": 105,
+                "stars": 106,
                 "topics": [
                   "agriculture",
                   "agriculture-robotics",
@@ -1652,7 +1652,7 @@
                 "open_issues": 17,
                 "owner": "nasa-jpl",
                 "repo": "open-source-rover",
-                "stars": 9802,
+                "stars": 9806,
                 "topics": [
                   "diy",
                   "hardware",
@@ -1851,7 +1851,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T03:56:15.847Z",
+    "last_updated": "2026-11-25T02:19:53.973Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome robots that are open source",
